@@ -21,7 +21,7 @@ after_success:
 - git config user.name "Travis-CI"
 - git config user.email ${EMAIL}
 #- rsync -az --delete --exclude '.git*' ../_site/ .
-#- touch .nojekyll
+- touch .nojekyll
 #- git remote add upstream "https://${DEPLOY_KEY}@${GH_REF}"
 #- git fetch upstream
 #- git reset upstream/gh-pages
@@ -30,7 +30,7 @@ after_success:
 - git log
 - git status
 - git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
-#- git push -f "https://${DEPLOY_KEY}@${GH_REF}" ${TARGET_BRANCH} > /dev/null 2>&1
+- git push -f "https://${DEPLOY_KEY}@${GH_REF}" ${TARGET_BRANCH} > /dev/null 2>&1
 
 env:
   global:
