@@ -1,0 +1,53 @@
+= Cajun-Gemüsepfanne
+:page-layout: post
+:tags: pfanne, hauptgericht
+
+**Quelle**: 20 Minuten sind genug
+
+**Zubereitungszeit**:
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
++++**Gemüse/Obst**+++
+3 Frühlingszwiebeln
+1 rote oder orange Paprikaschote (ca. 150 g)
+1 Zwiebel
+1 Knoblauchzehe
+80g Stangensellerie
+
++++**Gewürz**+++
+1 TL Sambal Oelek
+1 TL Dijonsenf
+gemahlener Kreuzkümmel
+
++++**Reis/Nudeln**+++
+125g Couscous
+
++++**Saft**+++
+1 – 2 EL Limettensaft
+
++++**sonstiges**+++
+150 ml Gemüsebrühe
+
+
+== Rezept
+
+[cols="3,5*2"]
+|============================
+|3 Frühlingszwiebeln .3+|schneiden .3+|mit Öl in Pfanne erhitzen .5+|hinzufügen .10+|würzen .12+|mischen
+|1 Zwiebel
+|1 Knoblauchzehe
+|80g Stangensellerie .9+| .2+|schneiden
+|1 Paprika
+|150 Gemüsebrühe .5+| .5+|
+|2-3 Prisen Kreuzkümmel
+|1 TL Samba Oelek
+|1 TL Dijonsenf
+|1 EL Limettensaft
+|Wasser 2+|kochen .2+|quellen lassen
+|125g Couscous 2+|
+|============================
