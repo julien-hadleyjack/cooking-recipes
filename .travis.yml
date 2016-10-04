@@ -15,20 +15,21 @@ script:
 after_success:
 #- git clone https://$GH_REF
 #- cd $(basename ${GH_REF%.git})
+- cd _site
 - ls -lah
-- tree
-#- git config user.name "Travis-CI"
-#- git config user.email ${EMAIL}
+- git config user.name "Travis-CI"
+- git config user.email ${EMAIL}
 #- rsync -az --delete --exclude '.git*' ../_site/ .
 #- touch .nojekyll
-#- git add -A .
-#- git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
-#- git push -f "https://${DEPLOY_KEY}@${GH_REF}" ${TARGET_BRANCH} > /dev/null 2>&1
+- git add -A .
+- git status
+- git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
+- git push -f "https://${DEPLOY_KEY}@${GH_REF}" ${TARGET_BRANCH} > /dev/null 2>&1
 
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - GH_REF=https://github.com/julien-hadleyjack/cooking-recipes
+  - GH_REF=github.com/julien-hadleyjack/cooking-recipes
   - EMAIL=github@jlhj.de
   - TARGET_BRANCH=gh-pages
   - secure: zmwA0agkg2jaxOt8/zmGsjsvIJ3w5zh6lmUKlHmoH/M7ytbY3cO++P062LXuq4jwPeymRE0mYOjvXkDZA9NrmcYnOXtBNjMBCh3cOL25GO0fDCq+01SxUMWQpH5ATtFcJCDgMzRE6rL+KVOaYUIRzy6cT3EVMJytpI6RzIiXcGfOL5UmxzsOx2JeG7Sgoc5MfaADVFpVd/+C6GtcNYT84SF05uO21+wGQfMenMD7n3Mh2f2Xbn5SrMwwqmrWm/A36Xf/IcOJPufhN0pq06YI3PO8+vRzPDrYfb6Y4j+x6/MLA3cL6v9qCj55y756F392J9fmlyxOweaQIgn/uu5RNjcYzwBlIe1AvKpxP0PRSPknNWFhkcG17FzdrVgfOF0uLAd16ndGh0KajvLcWkUKPCZ6K/EztcKbNHuMO7Fa3Oe+tZ4M/DXocEBo0xPk+GXyd3V2RjdPbOoDVi60NvDidquFivZCDeLZVsiy52bj6kNONNmyfGTQ7NnSn9toYRhbpcB5tk5LtCzDtHbtjyQ8sDyq7jaI8dRScBfbnyssOVEokB2TudjfXPBJydMq23MZQoEU69tbYoM38Gup5yMblij+j6eoNTxIbDXzors+fcKe35OixAuRd8nrinFjlzJpbf+3Ugz5nvhHCOVoGE8MNqMLJIdvI8xp+iF7dLoKLh8=
