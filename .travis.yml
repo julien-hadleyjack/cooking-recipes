@@ -19,6 +19,7 @@ after_success:
 - git config user.name "Travis-CI"
 - git config user.email ${EMAIL}
 - git config push.default simple
+- git checkout -f ${TARGET_BRANCH}
 - rsync -az --delete --exclude '.git*' ../_site/ .
 - touch .nojekyll
 #- touch .
