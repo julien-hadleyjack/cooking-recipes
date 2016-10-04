@@ -2,6 +2,7 @@ sudo: false
 
 language: ruby
 rvm: 2.3.1
+cache: bundler
 
 branches:
   only:
@@ -21,6 +22,8 @@ script:
 #- git add -A .
 #- git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
 #- git push -f "https://${DEPLOY_KEY}@${GH_REF}" ${TARGET_BRANCH} > /dev/null 2>&1
+
+exclude: [vendor]
 
 env:
   global:

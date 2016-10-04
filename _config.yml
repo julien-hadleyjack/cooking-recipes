@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Cooking By The Book
-email: your-email@domain.com
+email: github@jlhj.de‚
 description: > # this means to ignore newlines until "baseurl:"
   A collection of recipes. Inspired by the "Cooking For Engineers" website.
 baseurl: "/cooking-recipes" # the subpath of your site, e.g. /blog
