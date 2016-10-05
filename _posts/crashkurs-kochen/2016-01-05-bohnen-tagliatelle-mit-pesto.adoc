@@ -1,5 +1,7 @@
 = Bohnen-Tagliatelle mit Pesto
 :page-layout: post
+:page-liquid:
+
 
 **Quelle**: Crashkurs Kochen, S. 33
 
@@ -45,3 +47,10 @@
 |Olivenöl
 |Pfeffer
 |=====================================================================
+
+== Bilder
+
+image::{{ "/images/bohnen-tagliatelle-mit-pesto.jpg" | prepend: site.baseurl }}[Bohnen-Tagliatelle mit Pesto]
+
+
+

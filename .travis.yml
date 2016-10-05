@@ -30,6 +30,7 @@ after_success:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - JEKYLL_ENV=production
   - GH_REF=github.com/julien-hadleyjack/cooking-recipes
   - EMAIL=github@jlhj.de
   - TARGET_BRANCH=gh-pages

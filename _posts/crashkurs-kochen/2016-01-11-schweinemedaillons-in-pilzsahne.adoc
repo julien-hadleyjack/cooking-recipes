@@ -1,5 +1,6 @@
 = Schweinemedaillons in Pilzsahne
 :page-layout: post
+:page-liquid:
 
 **Quelle**: Crashkurs Kochen, S. 128
 
@@ -53,3 +54,9 @@ salzen, pfeffern |braten auf mittlerer Hitze 2+|entfernen .7+|vermischen
 
 |1 TL Senf
 |=======================================================================
+
+
+== Bilder
+
+image::{{ "/images/schweinemedaillons-in-pilzsahne.jpg" | prepend: site.baseurl }}[Schweinemedaillons in Pilzsahne]
+

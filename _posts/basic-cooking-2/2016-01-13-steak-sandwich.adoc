@@ -58,5 +58,5 @@ Dazu passt: Senf, Gurkenscheiben oder Gurkenrelish (aus dem Glas)
 
 == Bilder
 
-// image::{{ "/images/steak-sandwich.jpg" | prepend: site.baseurl }}[Steak-Sandwich]
+image::{{ "/images/steak-sandwich.jpg" | prepend: site.baseurl }}[Steak-Sandwich]
 
