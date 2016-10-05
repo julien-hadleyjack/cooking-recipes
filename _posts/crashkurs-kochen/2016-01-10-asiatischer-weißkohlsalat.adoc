@@ -1,4 +1,4 @@
-= Griechischer Salat mit Tomatensauce
+= Asiatischer Weißkohlsalat
 :page-layout: post
 
 **Quelle**: Crashkurs Kochen, S. 85
@@ -39,27 +39,25 @@ Petersilie am Ende
 |=======================================================================
 | | | | |20 Minuten
 |½ kleiner Weißkohl (ca. 450g) |Strunk abschneiden, feine Streifen
-schneiden |hinzufügen und durchkneten |vermischen |durchziehen
+schneiden .2+|hinzufügen und durchkneten .4+|vermischen .11+|durchziehen
 
-|1 TL Salz | | | |
+|1 TL Salz .10+|
 
-|½ Bund Radieschen | |Grün entfernen, waschen, Scheiben schneiden | |
+|½ Bund Radieschen |Grün entfernen, waschen, Scheiben schneiden
 
-|125g Rettich | |putzen, schälen, feine Stifte schneiden oder raspeln |
-|
+|125g Rettich |putzen, schälen, feine Stifte schneiden oder raspeln
 
-|2 dünne Frühlingszwiebeln | |waschen, dünne Ringe schneiden |vermischen
-|
+|2 dünne Frühlingszwiebeln |waschen, dünne Ringe schneiden .6+|vermischen
 
-|2 EL Weißweinessig | | | |
+|2 EL Weißweinessig .6+|
 
-|1-2 EL Sojasauce | | | |
+|1-2 EL Sojasauce
 
-|Pfeffer, ½ TL Zucker | | | |
+|Pfeffer, ½ TL Zucker
 
-|½ TL gemahlener Ingwer | | | |
+|½ TL gemahlener Ingwer
 
-|3 EL Pflanzenöl | | | |
+|3 EL Pflanzenöl
 
-|½ Bund Petersilie | | | |
+|½ Bund Petersilie |
 |=======================================================================

@@ -35,22 +35,21 @@ Für Gemüse anbraten keine Zeitangabe
 [cols=",,,,",options="header",]
 |=======================================================================
 | | |1-2 Minuten | |
-|2l Salzwasser |aufkochen |kochen | |hinzufügen
+|2l Salzwasser |aufkochen 2.2+|kochen .9+|hinzufügen
 
-|250 g Eiernudeln | | | |
+|250 g Eiernudeln |
 
-|500 g Hähnchenbrustfilets |in dünne Streifen schneiden |braten auf
-hoher Hitze |hinzufügen |
+|500 g Hähnchenbrustfilets |in dünne Streifen schneiden |braten auf hoher Hitze .5+|hinzufügen
 
-|1 Bund Frühlingszwiebeln |Ringe schneiden | | |
+|1 Bund Frühlingszwiebeln |Ringe schneiden .6+|
 
-|1 kleines Stück Ingwer |schälen, fein hacken | | |
+|1 kleines Stück Ingwer |schälen, fein hacken
 
-|2 Knoblauchzehen |schälen, fein hacken | | |
+|2 Knoblauchzehen |schälen, fein hacken
 
-|1-2 kleine Chilischoten |fein hacken | | |
+|1-2 kleine Chilischoten |fein hacken
 
-|3 EL Sojasauce | | | |
+|3 EL Sojasauce .2+| .2+|
 
-|1-2 EL Zitronensaft | | | |
+|1-2 EL Zitronensaft
 |=======================================================================

@@ -1,5 +1,6 @@
 = Steak-Sandwich
 :page-layout: post
+:page-liquid:
 
 **Quelle**: Basic Cooking 2, S. 42
 
@@ -39,19 +40,23 @@ Dazu passt: Senf, Gurkenscheiben oder Gurkenrelish (aus dem Glas)
 [cols=",,,,,,",options="header",]
 |=======================================================================
 | | |20 Minuten |jeweils 1 Minute | |1-2 Minuten |
-|4 dünne Rindersteaks |pfeffern |vermischen, abgedeckt durchziehen im
-Kühlschrank |abtropfen lassen, in Öl anbraten bei starker Hitze, salzen
-| | |aufs Brot legen
 
-|100 ml Weißwein |verquirlen | |Marinade entfernen | |hinzufügen, evtl.
-mehr Wein |untere Brothälfte beträufeln
+|4 dünne Rindersteaks |pfeffern .5+|vermischen, abgedeckt durchziehen im Kühlschrank |abtropfen lassen, in Öl anbraten bei starker Hitze, salzen .5+| | |aufs Brot legen
 
-|4 EL Olivenöl | | | | | |
+|100 ml Weißwein .2+|verquirlen .4+|Marinade entfernen .6+|hinzufügen, evtl. mehr Wein .5+|untere Brothälfte beträufeln
 
-|2 Knoblauchzehen |Scheiben schneiden | | | | |
+|4 EL Olivenöl
 
-|1 Zweig Rosmarin |waschen, grob zerteilen | | | | |
+|2 Knoblauchzehen |Scheiben schneiden
 
-|1 Zwiebel |feine Ringe schneiden | | |Pfanne abkühlen lassen, anbraten
-in Butter bei kleiner Hitze | |
+|1 Zweig Rosmarin |waschen, grob zerteilen
+
+| Butter | .2+| .2+| .2+|Pfanne abkühlen lassen, anbraten auf kleiner Hitze
+
+|1 Zwiebel |feine Ringe schneiden
 |=======================================================================
+
+== Bilder
+
+// image::{{ "/images/steak-sandwich.jpg" | prepend: site.baseurl }}[Steak-Sandwich]
+

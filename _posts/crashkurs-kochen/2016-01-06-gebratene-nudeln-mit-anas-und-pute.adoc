@@ -36,26 +36,26 @@
 [cols=",,,,",options="header",]
 |=======================================================================
 | | |1-2 Minuten |2 Minuten |
-|1l Salzwasser |aufkochen |kochen | |hinzufügen
+|1l Salzwasser |aufkochen 2.2+|kochen .11+|hinzufügen
 
-|125g Eiernudeln | | | |
+|125g Eiernudeln |
 
-|200g Putenschnitzel |waschen, trocken tupfen, schneiden |anbraten auf
-hoher Hitze |hinzufügen |
+|200g Putenschnitzel |waschen, trocken tupfen, schneiden .2+|anbraten auf
+hoher Hitze .6+|hinzufügen
 
-|50g Pilze |abreiben, Steile entfernen | | |
+|50g Pilze |abreiben, Steile entfernen
 
-|3 Frühlingszwiebeln |Ringe schneiden | | |
+|3 Frühlingszwiebeln |Ringe schneiden .7+|
 
-| |putzen, aufschneiden, entkernen, Ringe schneiden | | |
+| |putzen, aufschneiden, entkernen, Ringe schneiden
 
-|Ingwer |klein würfeln | | |
+|Ingwer |klein würfeln
 
-|Ananas |schneiden | | |
+|Ananas |schneiden
 
-|Sojasauce, Chilisauce | | | |
+|Sojasauce, Chilisauce .3+| .3+|
 
-|Salz, Pfeffer | | | |
+|Salz, Pfeffer
 
-|Limettensaft | | | |
+|Limettensaft
 |=======================================================================

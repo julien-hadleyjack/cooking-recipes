@@ -34,14 +34,14 @@ Dazu schmeckt: Fladenbrot
 
 [cols=",,,",]
 |=============================================================
-|2 Römersalatherzen |Spalten schneiden |vermischen |vermischen
-|1 Minigurke |ungeschält in Scheiben schneiden | |
-|½ Paprika |in Scheiben schneiden | |
-|1 kleine Zwiebel |in Ringe schneiden | |
-|40g Oliven |abtropfen, halbieren | |
-|100g Schafskäse |würfeln | |
-|3-4 Stängel Petersilie | |vermischen |
-|125ml Tomatensaft | | |
-|Salz, Pfeffer | | |
-|2 EL Weißweinessig | | |
+|2 Römersalatherzen |Spalten schneiden .6+|vermischen .10+|vermischen
+|1 Minigurke |ungeschält in Scheiben schneiden
+|½ Paprika |in Scheiben schneiden
+|1 kleine Zwiebel |in Ringe schneiden
+|40g Oliven |abtropfen, halbieren
+|100g Schafskäse |würfeln
+|3-4 Stängel Petersilie .4+| .4+|vermischen
+|125ml Tomatensaft
+|Salz, Pfeffer
+|2 EL Weißweinessig
 |=============================================================

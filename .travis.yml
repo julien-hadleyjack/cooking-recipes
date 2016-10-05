@@ -22,15 +22,10 @@ after_success:
 - git checkout -f ${TARGET_BRANCH}
 - rsync -az --delete --exclude '.git*' ../_site/ .
 - touch .nojekyll
-#- touch .
 - git add -A .
 - git status
 - git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
 - git push -f "https://${DEPLOY_KEY}@${GH_REF}" ${TARGET_BRANCH} > /dev/null 2>&1
-#- git remote add upstream "https://${DEPLOY_KEY}@${GH_REF}"
-#- git fetch upstream
-#- git reset upstream/gh-pages
-#- git push -fq upstream HEAD:gh-pages
 
 env:
   global:
