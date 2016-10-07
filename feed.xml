@@ -6,8 +6,8 @@
 </description>
     <link>https://julien-hadleyjack.github.io/cooking-recipes/</link>
     <atom:link href="https://julien-hadleyjack.github.io/cooking-recipes/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 07 Oct 2016 21:03:57 +0000</pubDate>
-    <lastBuildDate>Fri, 07 Oct 2016 21:03:57 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Oct 2016 21:46:20 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Oct 2016 21:46:20 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -186,91 +186,141 @@ frische Petersilie&lt;br&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
+        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/rote-linsensuppe-mit-spinat-und-zitrone.html</link>
+        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/rote-linsensuppe-mit-spinat-und-zitrone.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Grundrezept Curry</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: Natürlich Essen, S. 177&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
+1-2 EL frische Kräuter (Koriander, Petersilie)&lt;br&gt;
+200-250 g Gemüse (je 2-4 von Blumenkohl, Brokkoli, Kürbis, Lauch, Karotten, Rote Bete, Süßkartoffeln oder Zucchini)&lt;br&gt;
+2 Zwiebeln oder Schalotten&lt;br&gt;
+1-2 Knoblauchzehen&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+100 g Hülsenfrüchte (Linsen oder Kichererbsen)&lt;br&gt;
+½-1 TL Gewürze (Koriander, Kurkuma, Zimt, Kümmel, Fenchelsamen, Chili, Paprika, Curry)&lt;br&gt;
+350-400 ml Kokosmilch&lt;br&gt;
+Limeten-/Zitronensaft&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Alternativ: Kokosmilch mit passierten Tomaten, 2 EL Sesam anstelle von Tahini&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Beispiel Gewürzmischung:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;ulist&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;½ TL Zimt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;½ TL Kurkuma&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;¾ Kümmelsamen&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;½ Paprikapulver&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
 &lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
 &lt;colgroup&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
 &lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;15-30 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;5 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2-3 Minuten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;10 Minuten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;10 Minuten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;(Linsen)&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; colspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen, kochen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;9&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Kokosöl&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;erwärmen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;andünsten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;6&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;8&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;10&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;zum Kochen bringen, Hitze runter, am Ende pürieren&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;11&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;weiter köcheln lassen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;13&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen (auch restlichen Koriander)&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Gemüse&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;dünsten&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Zwiebel&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;würfeln&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Knoblauchzehen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1-2 cm Ingwer&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;11&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;klein hacken&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 cm Kurkuma&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ Chilischote&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;3-4 Karotten&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;härteres Gewürze&lt;/p&gt;&lt;/td&gt;
 &lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;würfeln&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;mischen&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Fenchel&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Tahini/Sesam&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;6&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;3 Stengel Koriander&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Stengel und Blätter getrennt hacken&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Kokosmilch&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;500 ml Brühe&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;weiches Gemüse (Süßkartoffel)&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;140 ml Kokosmilch&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;(Honig)&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Olivenöl&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;frische Gewürze&lt;/p&gt;&lt;/td&gt;
 &lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1/2 TL Salz&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Limettensaft&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/rote-linsensuppe-mit-spinat-und-zitrone.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/rote-linsensuppe-mit-spinat-und-zitrone.html</guid>
+        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/curry.html</link>
+        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/curry.html</guid>
         
         
       </item>
@@ -1099,113 +1149,6 @@ schneiden&lt;/p&gt;&lt;/td&gt;
         <pubDate>Sun, 10 Jan 2016 00:00:00 +0000</pubDate>
         <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/01/10/asiatischer-wei%C3%9Fkohlsalat.html</link>
         <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/01/10/asiatischer-wei%C3%9Fkohlsalat.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Griechischer Salat mit Tomatensauce</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: Crashkurs Kochen, S. 81&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 30&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
-½ gelbe oder orange Paprika&lt;br&gt;
-1 Bio-Minigurke (ca. 125g)&lt;br&gt;
-2 kleine Römersalatherzen&lt;br&gt;
-3-4 Stängel Petersilie&lt;br&gt;
-1 kleine weiße Zwiebel&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-40g schwarze Oliven (ohne Stein)&lt;br&gt;
-100g milder Schafskäse&lt;br&gt;
-2 EL Weißweinessig&lt;br&gt;
-2-3 EL Olivenöl&lt;br&gt;
-½ TL getrockneter Oregano&lt;br&gt;
-125ml Tomatensaft&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Dazu schmeckt: Fladenbrot&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
-&lt;colgroup&gt;
-&lt;col style=&quot;width: 25%;&quot;&gt;
-&lt;col style=&quot;width: 25%;&quot;&gt;
-&lt;col style=&quot;width: 25%;&quot;&gt;
-&lt;col style=&quot;width: 25%;&quot;&gt;
-&lt;/colgroup&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Römersalatherzen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Spalten schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;6&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;vermischen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;10&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;vermischen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Minigurke&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;ungeschält in Scheiben schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ Paprika&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;in Scheiben schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 kleine Zwiebel&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;in Ringe schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;40g Oliven&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;abtropfen, halbieren&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;100g Schafskäse&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;würfeln&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;3-4 Stängel Petersilie&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;vermischen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;125ml Tomatensaft&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Salz, Pfeffer&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Weißweinessig&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/01/09/griechicher-salat-mit-tomatensauce.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/01/09/griechicher-salat-mit-tomatensauce.html</guid>
         
         
       </item>
