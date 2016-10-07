@@ -25,22 +25,3 @@ frische Petersilie
 
 == Rezept
 
-//[cols=",,,,,",options="header",]
-|=======================================================================
-| | | | | 2-3 Minuten | 10 Minuten | 10 Minuten |
-| 1 EL Kokosöl | erwärmen .3+| andünsten .6+| hinzufügen .8+| hinzufügen .10+| zum Kochen bringen, Hitze runter, am Ende pürieren  .11+| weiter köcheln lassen .13+| hinzufügen (auch restlichen Koriander)
-| 1 Zwiebel .2+| würfeln
-| 2 Knoblauchzehen
-| 1-2 cm Ingwer .11+| .3+| klein hacken
-| 2 cm Kurkuma
-| ½ Chilischote
-| 3-4 Karotten .7+| .2+| würfeln
-| 1 Fenchel
-| 3 Stengel Koriander .5+| | Stengel und Blätter getrennt hacken
-| 500 ml Brühe .4+|
-| 140 ml Kokosmilch .3+|
-| 1 EL Olivenöl .2+|
-| 1/2 TL Salz
-
-
-|=======================================================================

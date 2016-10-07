@@ -1,0 +1,53 @@
+= Grundrezept Curry
+:page-layout: post
+
+**Quelle**: Natürlich Essen, S. 177
+
+**Zubereitungszeit**:
+
+**Personen**:
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+1-2 EL frische Kräuter (Koriander, Petersilie)
+200-250 g Gemüse (je 2-4 von Blumenkohl, Brokkoli, Kürbis, Lauch, Karotten, Rote Bete, Süßkartoffeln oder Zucchini)
+2 Zwiebeln oder Schalotten
+1-2 Knoblauchzehen
+
+**sonstiges**
+100 g Hülsenfrüchte (Linsen oder Kichererbsen)
+½-1 TL Gewürze (Koriander, Kurkuma, Zimt, Kümmel, Fenchelsamen, Chili, Paprika, Curry)
+350-400 ml Kokosmilch
+Limeten-/Zitronensaft
+
+
+== Kommentar
+
+Alternativ: Kokosmilch mit passierten Tomaten, 2 EL Sesam anstelle von Tahini
+
+Beispiel Gewürzmischung:
+
+* ½ TL Zimt
+* ½ TL Kurkuma
+* ¾ Kümmelsamen
+* ½ Paprikapulver
+
+
+== Rezept
+
+[cols=",,,,",options="header",]
+|===================================================
+| |15-30 Minuten | |5 Minuten |
+|(Linsen) 2+|waschen, kochen .7+|hinzufügen .9+|hinzufügen
+|Gemüse |schneiden |dünsten
+|härteres Gewürze .7+| |mischen
+|Tahini/Sesam .6+|
+|Kokosmilch
+|weiches Gemüse (Süßkartoffel)
+|(Honig)
+|frische Gewürze .2+|
+|Limettensaft
+|===================================================
