@@ -35,7 +35,7 @@ Alternativ: Hokkaido-Kürbis oder Süßkartoffel anstelle Kartoffeln
 
 == Rezept
 
-[cols=",,,,,,,,",options="header",]
+[cols=",,,,,,,",options="header",]
 |=======================================================================
 | | | | | 2-3 Minuten | 10 Minuten | 10 Minuten |
 | 1 EL Kokosöl | erwärmen .3+| braten .6+| hinzufügen .8+| hinzufügen .10+| zum Kochen bringen, Hitze runter, am Ende pürieren  .11+| weiter köcheln lassen .13+| hinzufügen (auch restlichen Koriander)
