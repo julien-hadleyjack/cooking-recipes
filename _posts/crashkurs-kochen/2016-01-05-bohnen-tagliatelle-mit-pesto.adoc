@@ -1,6 +1,5 @@
 = Bohnen-Tagliatelle mit Pesto
 :page-layout: post
-:page-liquid:
 
 
 **Quelle**: Crashkurs Kochen, S. 33
@@ -30,6 +29,8 @@
 40-50ml kalt gepresstes Olivenöl
 
 
+<<<
+
 == Rezept
 
 [cols=",,,,",options="header",]
@@ -50,7 +51,7 @@
 
 == Bilder
 
-image::{{ "/images/bohnen-tagliatelle-mit-pesto.jpg" | prepend: site.baseurl }}[Bohnen-Tagliatelle mit Pesto]
+image::{site-baseurl}/images/bohnen-tagliatelle-mit-pesto.jpg[Bohnen-Tagliatelle mit Pesto]
 
 
 

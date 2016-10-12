@@ -33,9 +33,11 @@ Salz soll eigentlich auch in das Dressing
 
 Petersilie am Ende
 
+<<<
+
 == Rezept
 
-[cols=",,,,",options="header",]
+[cols=",,,,",options="header",grid="all"]
 |=======================================================================
 | | | | |20 Minuten
 |½ kleiner Weißkohl (ca. 450g) |Strunk abschneiden, feine Streifen
