@@ -1,5 +1,5 @@
 = Griechischer Salat mit Tomatensauce
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Crashkurs Kochen, S. 81
 

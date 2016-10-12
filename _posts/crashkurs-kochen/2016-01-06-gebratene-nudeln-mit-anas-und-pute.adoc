@@ -1,5 +1,5 @@
 = Gebratene Nudeln mit Ananas und Pute
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Crashkurs Kochen, S. 43
 

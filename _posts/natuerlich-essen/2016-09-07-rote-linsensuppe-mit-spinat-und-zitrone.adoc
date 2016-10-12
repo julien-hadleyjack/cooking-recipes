@@ -1,5 +1,5 @@
 = Rote Linsensuppe mit Spinat und Zitrone
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Natürlich Essen, S. 173
 

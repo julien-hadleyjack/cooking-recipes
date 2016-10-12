@@ -1,5 +1,5 @@
 = Roh marinierter Fenchelsalat mit Salami
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Lunch im Glas, S. 33
 

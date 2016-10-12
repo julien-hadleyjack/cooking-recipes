@@ -1,5 +1,5 @@
 = Ungarische Reispfanne
-:page-layout: post
+:page-layout: single
 
 **Quelle**: 20 Minuten sind genug
 

@@ -1,5 +1,5 @@
 = Spaghetti mit Zwiebeln und Rindfleisch
-:page-layout: post
+:page-layout: single
 
 **Quelle**: One Pot Pasta, S. 30
 

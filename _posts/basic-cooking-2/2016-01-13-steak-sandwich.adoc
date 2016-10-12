@@ -1,5 +1,5 @@
 = Steak-Sandwich
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Basic Cooking 2, S. 42
 

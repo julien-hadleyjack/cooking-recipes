@@ -1,5 +1,5 @@
 = Schweinemedaillons in Pilzsahne
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Crashkurs Kochen, S. 128
 

@@ -1,5 +1,5 @@
 = Grundrezept Curry
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Natürlich Essen, S. 177
 

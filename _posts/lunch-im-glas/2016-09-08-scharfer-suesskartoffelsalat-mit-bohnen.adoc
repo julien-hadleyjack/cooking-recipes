@@ -1,5 +1,5 @@
 = Scharfer Süßkartfoffelsalat mit Bohnen
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Lunch im Glas, S. 10
 

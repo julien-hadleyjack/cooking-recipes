@@ -1,5 +1,5 @@
 = Gebratene asiatische Nudeln
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Basic Cooking, S. 43
 

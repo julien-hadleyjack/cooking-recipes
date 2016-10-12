@@ -1,5 +1,5 @@
 = Würzige Möhrensuppe mit Kokosmilch
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Natürlich Essen, S. 172
 

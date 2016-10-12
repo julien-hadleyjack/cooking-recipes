@@ -1,5 +1,5 @@
 = Cajun-Gemüsepfanne
-:page-layout: post
+:page-layout: single
 :tags: pfanne, hauptgericht
 
 **Quelle**: 20 Minuten sind genug

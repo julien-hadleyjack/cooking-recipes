@@ -1,5 +1,5 @@
 = Chicken-Tortilla-Wraps
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Basic Cooking 2, S. 49
 

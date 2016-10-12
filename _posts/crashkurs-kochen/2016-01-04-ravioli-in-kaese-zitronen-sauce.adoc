@@ -1,5 +1,5 @@
 = Ravioli in Käse-Zitronen-Sauce
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Crashkurs Kochen, S. 32
 

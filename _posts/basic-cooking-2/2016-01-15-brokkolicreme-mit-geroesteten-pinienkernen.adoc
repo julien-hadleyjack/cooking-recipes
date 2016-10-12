@@ -1,5 +1,5 @@
 = Brokkolicreme mit gerösteten Pinienkernen
-:page-layout: post
+:page-layout: single
 
 **Quelle**: Basic Cooking 2, S. 64
 

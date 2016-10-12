@@ -40,6 +40,7 @@ GEM
       jekyll (>= 2.3.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
+    jekyll-sitemap (0.10.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.12.0)
@@ -78,6 +79,7 @@ DEPENDENCIES
   html-proofer
   jekyll (= 3.2.1)
   jekyll-asciidoc
+  jekyll-sitemap
   minima
 
 RUBY VERSION

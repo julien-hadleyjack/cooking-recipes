@@ -1,5 +1,5 @@
 = Brokkoli-Nudeln mit Schweinefilet
-:page-layout: post
+:page-layout: single
 
 **Quelle**: One Pot Pasta, S. 26
 
