@@ -1,5 +1,14 @@
+---
+header:
+  teaser: thumbnail/roh-marinierter-fenchelsalat-mit-salami.jpg
+gallery:
+  - url: roh-marinierter-fenchelsalat-mit-salami.jpg
+    image_path: thumbnail/roh-marinierter-fenchelsalat-mit-salami.jpg
+---
 = Roh marinierter Fenchelsalat mit Salami
 :page-layout: single
+:epub-picture: roh-marinierter-fenchelsalat-mit-salami.jpg
+:page-liquid:
 
 **Quelle**: Lunch im Glas, S. 33
 
@@ -73,25 +82,18 @@ oder hobeln |
 |25 g Pecorino | | |
 |=======================================================================
 
-|50 g Bohnen | | | | |
 
-|5 EL Tomatensaft | |unterschlagen | | |
+== Bilder
 
-|1 EL Rotweinessig | | | | |
-
-|Salz, Pfeffer | | | | |
-
-|Honig | | | | |
-
-|1 EL Olivenöl | | | | |
-
-|Tabasco | | | | |
-
-|120 g Kidneybohnen | |im Sieb waschen |ins Glas hinzufügen | |
-
-|1 Mini-Romanasalat | |schneiden | | |
-
-|70 g Mais | | | |im Sieb waschen |
-
-|40 g geraspelten Cheddar | | | | |
-|=======================================================================
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

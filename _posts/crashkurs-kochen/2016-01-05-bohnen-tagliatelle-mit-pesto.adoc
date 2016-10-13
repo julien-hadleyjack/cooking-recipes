@@ -4,6 +4,8 @@ header:
 gallery:
   - url: bohnen-tagliatelle-mit-pesto.jpg
     image_path: thumbnail/bohnen-tagliatelle-mit-pesto.jpg
+  - url: bohnen-tagliatelle-mit-pesto-2.jpg
+    image_path: thumbnail/bohnen-tagliatelle-mit-pesto-2.jpg
 ---
 = Bohnen-Tagliatelle mit Pesto
 :page-layout: single
@@ -66,7 +68,7 @@ image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}
-image::{site-baseurl}/images/{{ page.gallery[0].url }}[title="{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
 {% else %}
 ++++
 {% include gallery  caption=page.title %}
