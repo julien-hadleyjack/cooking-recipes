@@ -2,13 +2,97 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cooking By The Book</title>
-    <description>A collection of recipes. Inspired by the &quot;Cooking For Engineers&quot; website.
-</description>
-    <link>https://julien-hadleyjack.github.io/cooking-recipes/</link>
-    <atom:link href="https://julien-hadleyjack.github.io/cooking-recipes/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Oct 2016 21:15:05 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Oct 2016 21:15:05 +0000</lastBuildDate>
+    <description>A collection of recipes. Inspired by the &quot;Cooking For Engineers&quot; website.</description>
+    <link>/cooking-recipes/</link>
+    <atom:link href="/cooking-recipes/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 13 Oct 2016 20:49:14 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2016 20:49:14 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Spaghetti mit Zwiebeln und Rindfleisch</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 30&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 35 min&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
+10 g Ingwer&lt;br&gt;
+4 Frühlingszwiebeln&lt;br&gt;
+1 Handvoll Koriander&lt;br&gt;
+1 Knoblauchzehe&lt;br&gt;
+200 g rote Zwiebeln&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Fleisch&lt;/strong&gt;&lt;br&gt;
+200 g Rinder-Minutensteak&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Nudeln/Saucen&lt;/strong&gt;&lt;br&gt;
+200 g Spaghetti (Kochzeit: 9 Min.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+5 EL Teriyakisauce&lt;br&gt;
+1 EL crunchy Erdnussbutter&lt;br&gt;
+3 EL Limettensaft&lt;br&gt;
+700 ml Fleischbrühe&lt;br&gt;
+2 EL Röstzwiebeln&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Alternativ: 1 Hähnchenbrustfilet (von Anfang mitkochen) oder ca. 150 g rohe, geschälte Garnelen (letzten 3 Minuten) anstelle von Rindfleisch&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/spaghetti-mit-zwiebeln-und-rindfleisch.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/spaghetti-mit-zwiebeln-und-rindfleisch.jpg&quot; alt=&quot;spaghetti mit zwiebeln und rindfleisch&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;title&quot;&gt;Figure 1. Spaghetti mit Zwiebeln und Rindfleisch&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/one%20pot%20pasta/spaghetti-mit-zwiebeln-und-rindfleisch.html</link>
+        <guid isPermaLink="true">/cooking-recipes/one%20pot%20pasta/spaghetti-mit-zwiebeln-und-rindfleisch.html</guid>
+        
+        <category>pasta</category>
+        
+        <category>fleisch</category>
+        
+        <category>asiatisch</category>
+        
+        
+        <category>One Pot Pasta</category>
+        
+      </item>
     
       <item>
         <title>Girandole ai Funghi con Pancetta</title>
@@ -61,6 +145,7 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;50 ml passierte Toamten könnne durch Sahne ersetzt werden&lt;/p&gt;
 &lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
@@ -68,10 +153,21 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/girandole-ai-funghi-con-pancetta.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/girandole-ai-funghi-con-pancetta.jpg&quot; alt=&quot;girandole ai funghi con pancetta&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;title&quot;&gt;Figure 1. Girandole ai Funghi con Pancetta&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
-        <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/08/girandole-ai-funghi-con-pancetta.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/08/girandole-ai-funghi-con-pancetta.html</guid>
+        <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/girandole-ai-funghi-con-pancetta.html</link>
+        <guid isPermaLink="true">/cooking-recipes/girandole-ai-funghi-con-pancetta.html</guid>
         
         
       </item>
@@ -125,6 +221,7 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Zusätzlich möglich: Erdnüsse, Cashewnüsse, Wasabi-Erdnüsse&lt;/p&gt;
 &lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
@@ -236,10 +333,21 @@ anbraten&lt;/p&gt;&lt;/td&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/brokkoli-nudeln-mit-schweinefilet.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/brokkoli-nudeln-mit-schweinefilet.jpg&quot; alt=&quot;brokkoli nudeln mit schweinefilet&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;title&quot;&gt;Figure 1. Brokkoli-Nudeln mit Schweinefilet&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
-        <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/08/brokkoli-nudeln-mit-schweinefilet.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/08/brokkoli-nudeln-mit-schweinefilet.html</guid>
+        <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/brokkoli-nudeln-mit-schweinefilet.html</link>
+        <guid isPermaLink="true">/cooking-recipes/brokkoli-nudeln-mit-schweinefilet.html</guid>
         
         
       </item>
@@ -292,6 +400,7 @@ Tabasco&lt;/p&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;hält 2-3 Tage frisch&lt;/p&gt;
 &lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
@@ -427,9 +536,9 @@ hinzufügen&lt;/p&gt;&lt;/td&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/08/scharfer-suesskartoffelsalat-mit-bohnen.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/08/scharfer-suesskartoffelsalat-mit-bohnen.html</guid>
+        <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/scharfer-suesskartoffelsalat-mit-bohnen.html</link>
+        <guid isPermaLink="true">/cooking-recipes/scharfer-suesskartoffelsalat-mit-bohnen.html</guid>
         
         
       </item>
@@ -486,6 +595,7 @@ hinzufügen&lt;/p&gt;&lt;/td&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Dazu passt. Walnussbrot, Ciabatta&lt;/p&gt;
 &lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
@@ -625,9 +735,9 @@ oder hobeln&lt;/p&gt;&lt;/td&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/08/roh-marinierter-fenchelsalat-mit-salami.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/08/roh-marinierter-fenchelsalat-mit-salami.html</guid>
+        <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/roh-marinierter-fenchelsalat-mit-salami.html</link>
+        <guid isPermaLink="true">/cooking-recipes/roh-marinierter-fenchelsalat-mit-salami.html</guid>
         
         
       </item>
@@ -679,6 +789,7 @@ oder hobeln&lt;/p&gt;&lt;/td&gt;
 &lt;div class=&quot;paragraph&quot;&gt;
 &lt;p&gt;Alternativ: Hokkaido-Kürbis oder Süßkartoffel anstelle Kartoffeln&lt;/p&gt;
 &lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
@@ -768,9 +879,9 @@ oder hobeln&lt;/p&gt;&lt;/td&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/wuerzige-moehrensuppe-mit-kokosmilch.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/wuerzige-moehrensuppe-mit-kokosmilch.html</guid>
+        <pubDate>Wed, 07 Sep 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/wuerzige-moehrensuppe-mit-kokosmilch.html</link>
+        <guid isPermaLink="true">/cooking-recipes/wuerzige-moehrensuppe-mit-kokosmilch.html</guid>
         
         
       </item>
@@ -806,6 +917,7 @@ frische Petersilie&lt;br&gt;
 200 g rote Linsen&lt;br&gt;
 700 ml Brühe&lt;/p&gt;
 &lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
@@ -877,9 +989,9 @@ frische Petersilie&lt;br&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/rote-linsensuppe-mit-spinat-und-zitrone.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/rote-linsensuppe-mit-spinat-und-zitrone.html</guid>
+        <pubDate>Wed, 07 Sep 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/rote-linsensuppe-mit-spinat-und-zitrone.html</link>
+        <guid isPermaLink="true">/cooking-recipes/rote-linsensuppe-mit-spinat-und-zitrone.html</guid>
         
         
       </item>
@@ -943,6 +1055,7 @@ Limeten-/Zitronensaft&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
@@ -1005,10 +1118,21 @@ Limeten-/Zitronensaft&lt;/p&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/curry.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/curry.jpg&quot; alt=&quot;curry&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;title&quot;&gt;Figure 1. Grundrezept Curry&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
-        <pubDate>Wed, 07 Sep 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/curry.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/09/07/curry.html</guid>
+        <pubDate>Wed, 07 Sep 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/curry.html</link>
+        <guid isPermaLink="true">/cooking-recipes/curry.html</guid>
         
         
       </item>
@@ -1051,6 +1175,7 @@ Limeten-/Zitronensaft&lt;/p&gt;
 3 EL Sonnenblumenöl&lt;br&gt;
 1 EL Senf&lt;/p&gt;
 &lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
@@ -1116,9 +1241,9 @@ Limeten-/Zitronensaft&lt;/p&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        <pubDate>Sat, 16 Jan 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/01/16/schnitzel-wok.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/01/16/schnitzel-wok.html</guid>
+        <pubDate>Sat, 16 Jan 2016 00:00:00 +0100</pubDate>
+        <link>/cooking-recipes/schnitzel-wok.html</link>
+        <guid isPermaLink="true">/cooking-recipes/schnitzel-wok.html</guid>
         
         
       </item>
@@ -1155,6 +1280,7 @@ frisch geriebene Muskatnuss&lt;/p&gt;
 1-2 EL Zitronensaft&lt;br&gt;
 2 EL Pinienkerne&lt;/p&gt;
 &lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;sect1&quot;&gt;
@@ -1226,117 +1352,9 @@ schälen, Scheiben schneiden, in Sieb abbrausen&lt;/p&gt;&lt;/td&gt;
 &lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/01/15/brokkolicreme-mit-geroesteten-pinienkernen.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/01/15/brokkolicreme-mit-geroesteten-pinienkernen.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Chicken-Tortilla-Wraps</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: Basic Cooking 2, S. 49&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 30&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2 (4 Stück)&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
-2 EL Zitronensaft&lt;br&gt;
-2 Frühlingszwiebeln&lt;br&gt;
-4 große Salatblätter (z.B.: Eisbergsalat, Kopfsalat, Romana)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Fleisch&lt;/strong&gt;&lt;br&gt;
-200 g Hähnchenbrustfilet&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Milch&lt;/strong&gt;&lt;br&gt;
-1 EL Crème fraîche&lt;br&gt;
-2 EL Joghurt&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-4 Weizentortillas&lt;br&gt;
-2 EL Mango-Chutney&lt;br&gt;
-3-4 EL Öl&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
-&lt;colgroup&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;2 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;1 Minute&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Hänchenbrustfilet&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;feine Streifen schneiden, in Schüssel vermischen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;anbraten auf starker Hitze&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;abgedeckt warm halten&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Salz, Pfeffer&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Zitronensaft&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Öl&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Frühlingszwiebeln&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;feine Ringe schräg schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Crème fraîche&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; colspan=&quot;4&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;vermischen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Joghurt&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Tortillas&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;erhitzen in ausgespülte Pfanne&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
-        <link>https://julien-hadleyjack.github.io/cooking-recipes/2016/01/14/chicken-tortilla-wraps.html</link>
-        <guid isPermaLink="true">https://julien-hadleyjack.github.io/cooking-recipes/2016/01/14/chicken-tortilla-wraps.html</guid>
+        <pubDate>Fri, 15 Jan 2016 00:00:00 +0100</pubDate>
+        <link>/cooking-recipes/brokkolicreme-mit-geroesteten-pinienkernen.html</link>
+        <guid isPermaLink="true">/cooking-recipes/brokkolicreme-mit-geroesteten-pinienkernen.html</guid>
         
         
       </item>
