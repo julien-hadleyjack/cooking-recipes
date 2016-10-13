@@ -1,6 +1,15 @@
+---
+header:
+  teaser: thumbnail/cajun-gemuesepfanne.jpg
+gallery:
+  - url: cajun-gemuesepfanne.jpg
+    image_path: thumbnail/cajun-gemuesepfanne.jpg
+---
 = Cajun-Gemüsepfanne
 :page-layout: single
 :tags: pfanne, hauptgericht
+:epub-picture: cajun-gemuesepfanne.jpg
+:page-liquid:
 
 **Quelle**: 20 Minuten sind genug
 
@@ -53,3 +62,19 @@ gemahlener Kreuzkümmel
 |Wasser 2+|kochen .2+|quellen lassen
 |125g Couscous 2+|
 |============================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

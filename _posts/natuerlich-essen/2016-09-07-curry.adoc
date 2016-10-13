@@ -4,6 +4,8 @@ header:
 gallery:
   - url: curry.jpg
     image_path: thumbnail/curry.jpg
+  - url: curry-2.jpg
+    image_path: thumbnail/curry-2.jpg
 ---
 = Grundrezept Curry
 :page-layout: single

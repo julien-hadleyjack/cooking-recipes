@@ -1,5 +1,16 @@
+---
+header:
+  teaser: thumbnail/schweinemedaillons-in-pilzsahne.jpg
+gallery:
+  - url: schweinemedaillons-in-pilzsahne.jpg
+    image_path: thumbnail/schweinemedaillons-in-pilzsahne.jpg
+  - url: schweinemedaillons-in-pilzsahne-2.jpg
+    image_path: thumbnail/schweinemedaillons-in-pilzsahne-2.jpg
+---
 = Schweinemedaillons in Pilzsahne
 :page-layout: single
+:epub-picture: schweinemedaillons-in-pilzsahne.jpg
+:page-liquid:
 
 **Quelle**: Crashkurs Kochen, S. 128
 
@@ -55,6 +66,22 @@ salzen, pfeffern |braten auf mittlerer Hitze 2+|entfernen .7+|vermischen
 
 |1 TL Senf
 |=======================================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]
 
 
 == Bilder

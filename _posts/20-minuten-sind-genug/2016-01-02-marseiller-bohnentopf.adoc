@@ -1,6 +1,15 @@
+---
+header:
+  teaser: thumbnail/marseiller-bohnentopf.jpg
+gallery:
+  - url: marseiller-bohnentopf.jpg
+    image_path: thumbnail/marseiller-bohnentopf.jpg
+---
 = Marseiller Bohnentopf
 :page-layout: single
 :tags: pfanne, hauptgericht
+:epub-picture: marseiller-bohnentopf.jpg
+:page-liquid:
 
 **Quelle**: 20 minuten sind genug
 
@@ -65,3 +74,19 @@ getrockneter Thymian
 
 |1 Handvoll Basilikum |
 |=======================================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

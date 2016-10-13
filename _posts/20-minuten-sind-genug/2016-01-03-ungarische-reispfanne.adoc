@@ -1,5 +1,14 @@
+---
+header:
+  teaser: thumbnail/ungarische-reispfanne.jpg
+gallery:
+  - url: ungarische-reispfanne.jpg
+    image_path: thumbnail/ungarische-reispfanne.jpg
+---
 = Ungarische Reispfanne
 :page-layout: single
+:epub-picture: ungarische-reispfanne.jpg
+:page-liquid:
 
 **Quelle**: 20 Minuten sind genug
 
@@ -54,3 +63,19 @@ edelsüßes Paprikapulver
 |Wasser |kochen .2+|hinzufügen .2+| .2+|
 |Reis |
 |====================================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]
