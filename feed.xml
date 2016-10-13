@@ -5,8 +5,8 @@
     <description>A collection of recipes. Inspired by the &quot;Cooking For Engineers&quot; website.</description>
     <link>/cooking-recipes/</link>
     <atom:link href="/cooking-recipes/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Oct 2016 20:49:14 +0200</pubDate>
-    <lastBuildDate>Thu, 13 Oct 2016 20:49:14 +0200</lastBuildDate>
+    <pubDate>Thu, 13 Oct 2016 21:49:24 +0200</pubDate>
+    <lastBuildDate>Thu, 13 Oct 2016 21:49:24 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -73,9 +73,8 @@
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;imageblock image-popup&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/spaghetti-mit-zwiebeln-und-rindfleisch.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/spaghetti-mit-zwiebeln-und-rindfleisch.jpg&quot; alt=&quot;spaghetti mit zwiebeln und rindfleisch&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/spaghetti-mit-zwiebeln-und-rindfleisch.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/spaghetti-mit-zwiebeln-und-rindfleisch.jpg&quot; alt=&quot;Spaghetti mit Zwiebeln und Rindfleisch&quot;&gt;&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class=&quot;title&quot;&gt;Figure 1. Spaghetti mit Zwiebeln und Rindfleisch&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -159,9 +158,8 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;imageblock image-popup&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/girandole-ai-funghi-con-pancetta.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/girandole-ai-funghi-con-pancetta.jpg&quot; alt=&quot;girandole ai funghi con pancetta&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/girandole-ai-funghi-con-pancetta.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/girandole-ai-funghi-con-pancetta.jpg&quot; alt=&quot;Girandole ai Funghi con Pancetta&quot;&gt;&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class=&quot;title&quot;&gt;Figure 1. Girandole ai Funghi con Pancetta&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -339,9 +337,8 @@ anbraten&lt;/p&gt;&lt;/td&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
 &lt;div class=&quot;imageblock image-popup&quot;&gt;
 &lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/brokkoli-nudeln-mit-schweinefilet.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/brokkoli-nudeln-mit-schweinefilet.jpg&quot; alt=&quot;brokkoli nudeln mit schweinefilet&quot;&gt;&lt;/a&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/brokkoli-nudeln-mit-schweinefilet.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/brokkoli-nudeln-mit-schweinefilet.jpg&quot; alt=&quot;Brokkoli-Nudeln mit Schweinefilet&quot;&gt;&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class=&quot;title&quot;&gt;Figure 1. Brokkoli-Nudeln mit Schweinefilet&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -535,6 +532,16 @@ hinzufügen&lt;/p&gt;&lt;/td&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/scharfer-suesskartoffelsalat-mit-bohnen.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/scharfer-suesskartoffelsalat-mit-bohnen.jpg&quot; alt=&quot;Scharfer Süßkartfoffelsalat mit Bohnen&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
         <link>/cooking-recipes/scharfer-suesskartoffelsalat-mit-bohnen.html</link>
@@ -698,41 +705,16 @@ oder hobeln&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|50 g Bohnen | | | | |&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|5 EL Tomatensaft | |unterschlagen | | |&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|1 EL Rotweinessig | | | | |&lt;/p&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/roh-marinierter-fenchelsalat-mit-salami.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/roh-marinierter-fenchelsalat-mit-salami.jpg&quot; alt=&quot;Roh marinierter Fenchelsalat mit Salami&quot;&gt;&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|Salz, Pfeffer | | | | |&lt;/p&gt;
 &lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|Honig | | | | |&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|1 EL Olivenöl | | | | |&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|Tabasco | | | | |&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|120 g Kidneybohnen | |im Sieb waschen |ins Glas hinzufügen | |&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|1 Mini-Romanasalat | |schneiden | | |&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|70 g Mais | | | |im Sieb waschen |&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;|40 g geraspelten Cheddar | | | | |&lt;/p&gt;
-&lt;/div&gt;
-&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
-&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
@@ -1122,12 +1104,43 @@ Limeten-/Zitronensaft&lt;/p&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/curry.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/curry.jpg&quot; alt=&quot;curry&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class=&quot;title&quot;&gt;Figure 1. Grundrezept Curry&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot;half &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/curry.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/curry.jpg&quot;
+
+          alt=&quot;&quot;&gt;
+      &lt;/a&gt;
+
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/curry-2.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/curry-2.jpg&quot;
+
+          alt=&quot;&quot;&gt;
+      &lt;/a&gt;
+
+
+
+    &lt;figcaption&gt;Grundrezept Curry
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Wed, 07 Sep 2016 00:00:00 +0200</pubDate>
@@ -1350,6 +1363,16 @@ schälen, Scheiben schneiden, in Sieb abbrausen&lt;/p&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/brokkolicreme-mit-geroesteten-pinienkernen.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/brokkolicreme-mit-geroesteten-pinienkernen.jpg&quot; alt=&quot;Brokkolicreme mit gerösteten Pinienkernen&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Fri, 15 Jan 2016 00:00:00 +0100</pubDate>
