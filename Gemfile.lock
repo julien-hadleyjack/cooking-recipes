@@ -35,6 +35,8 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-archives (2.1.0)
+      jekyll (>= 2.4)
     jekyll-asciidoc (2.0.1)
       asciidoctor (>= 1.5.0)
       jekyll (>= 2.3.0)
@@ -78,6 +80,7 @@ PLATFORMS
 DEPENDENCIES
   html-proofer
   jekyll (= 3.2.1)
+  jekyll-archives
   jekyll-asciidoc
   jekyll-sitemap
   minima

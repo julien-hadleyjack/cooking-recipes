@@ -9,6 +9,7 @@ template = ERB.new <<-EOF
 <%= config["author"] %>
 :doctype: book
 :epub3-stylesdir:ebook-css
+:ebook: true
 
 ifndef::ebook-format[:leveloffset: 1]
 

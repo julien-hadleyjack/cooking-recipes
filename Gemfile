@@ -29,12 +29,13 @@ gem "minima"
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
 group :jekyll_plugins do
-  gem 'jekyll-asciidoc'
-  # gem 'jekyll-paginate'
-  gem 'jekyll-sitemap'
-  # gem 'jekyll-gist'
-  # gem 'jekyll-feed'
-  # gem 'jemoji'
+	gem 'jekyll-asciidoc'
+  	# gem 'jekyll-paginate'
+	gem 'jekyll-sitemap'
+	gem 'jekyll-archives'
+	# gem 'jekyll-gist'
+	# gem 'jekyll-feed'
+	# gem 'jemoji'
 end
 
 gem 'html-proofer'

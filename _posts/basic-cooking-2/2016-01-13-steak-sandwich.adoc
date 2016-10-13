@@ -1,5 +1,17 @@
+---
+header:
+  teaser: steak-sandwich.jpg
+gallery:
+  - url: steak-sandwich.jpg
+    image_path: steak-sandwich.jpg
+  - url: schweinemedaillons-in-pilzsahne.jpg
+    image_path: schweinemedaillons-in-pilzsahne.jpg
+---
 = Steak-Sandwich
 :page-layout: single
+:page-teaser: images/steak-sandwich.jpg
+:page-liquid:
+
 
 **Quelle**: Basic Cooking 2, S. 42
 
@@ -59,5 +71,12 @@ Dazu passt: Senf, Gurkenscheiben oder Gurkenrelish (aus dem Glas)
 
 == Bilder
 
-image::{site-baseurl}/images/steak-sandwich.jpg[Steak-Sandwich]
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/steak-sandwich.jpg[caption="Steak-Sandwich"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+++++
+{% include gallery caption="Steak-Sandwich" %}
+++++
+endif::ebook-format-epub3[]
 
