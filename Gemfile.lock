@@ -64,6 +64,7 @@ GEM
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
+    rmagick (2.16.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
@@ -84,6 +85,7 @@ DEPENDENCIES
   jekyll-asciidoc
   jekyll-sitemap
   minima
+  rmagick
 
 RUBY VERSION
    ruby 2.3.1p112

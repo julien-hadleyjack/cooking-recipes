@@ -1,5 +1,14 @@
+---
+header:
+  teaser: thumbnail/curry.jpg
+gallery:
+  - url: curry.jpg
+    image_path: thumbnail/curry.jpg
+---
 = Grundrezept Curry
 :page-layout: single
+:epub-picture: curry.jpg
+:page-liquid:
 
 **Quelle**: Natürlich Essen, S. 177
 
@@ -53,3 +62,19 @@ Beispiel Gewürzmischung:
 |frische Gewürze .2+|
 |Limettensaft
 |===================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}[title="{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

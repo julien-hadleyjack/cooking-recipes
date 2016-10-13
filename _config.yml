@@ -55,7 +55,6 @@ analytics:
   google:
     tracking_id          :
 
-author_profile: false
 # Site Author
 author:
   name             : "Julien Hadley Jack"
@@ -184,9 +183,7 @@ gems:
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+  # - jekyll-feed
 
 
 # Archives

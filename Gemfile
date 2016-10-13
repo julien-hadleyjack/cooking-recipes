@@ -30,12 +30,9 @@ gem "minima"
 # end
 group :jekyll_plugins do
 	gem 'jekyll-asciidoc'
-  	# gem 'jekyll-paginate'
 	gem 'jekyll-sitemap'
-	gem 'jekyll-archives'
-	# gem 'jekyll-gist'
+	gem 'jekyll-archives'	# gem 'jekyll-paginate'
 	# gem 'jekyll-feed'
-	# gem 'jemoji'
 end
 
 gem 'html-proofer'

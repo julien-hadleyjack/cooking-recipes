@@ -1,5 +1,15 @@
+---
+header:
+  teaser: thumbnail/brokkoli-nudeln-mit-schweinefilet.jpg
+gallery:
+  - url: brokkoli-nudeln-mit-schweinefilet.jpg
+    image_path: thumbnail/brokkoli-nudeln-mit-schweinefilet.jpg
+---
 = Brokkoli-Nudeln mit Schweinefilet
 :page-layout: single
+:epub-picture: brokkoli-nudeln-mit-schweinefilet.jpg
+:page-liquid:
+
 
 **Quelle**: One Pot Pasta, S. 26
 
@@ -68,3 +78,19 @@ anbraten |herausnehmen |hinzufügen
 
 |1 EL Sesamsamen | | | |
 |=======================================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}[title="{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]
