@@ -5,9 +5,689 @@
     <description>A collection of recipes. Inspired by the &quot;Cooking For Engineers&quot; website.</description>
     <link>/cooking-recipes/</link>
     <atom:link href="/cooking-recipes/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Oct 2016 21:49:24 +0200</pubDate>
-    <lastBuildDate>Thu, 13 Oct 2016 21:49:24 +0200</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2016 15:21:14 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2016 15:21:14 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Paprika-Pasta mit Feta und Walnüssen</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 14&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 25 min&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
+1 rote Paprika (ca. 200 g)&lt;br&gt;
+200 g Kirschtomaten&lt;br&gt;
+2 Stiele Basilikum&lt;br&gt;
+1 rote Zwiebel&lt;br&gt;
+1 Knoblauchzehe&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Nudeln/Saucen&lt;/strong&gt;&lt;br&gt;
+200 g Maccheroncini (Kochzwei: 8-10 min.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Milch&lt;/strong&gt;&lt;br&gt;
+100 g Feta&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+50 g getrocknete Tomaten (in Öl)&lt;br&gt;
+2 EL Ajvar (Paprikapaste)&lt;br&gt;
+30 g Walnusskerne&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;15 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Paprika&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Streifen schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;10&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;kochen mit Basilikumstiele&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;13&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Stiele entfernen, Rest (auch Basilikumblätter) hinzufügen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;50 g getrocknete Tomaten&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;abtropfen, klein würfeln&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;200 g Kirschtomaten&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;halbieren&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 rote Zwiebel&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;feine Scheiben schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Knoblauchzehe&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Stiele Basilikum&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen, Blätter und Stiel trennen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Olivenöl&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;500 ml kaltes Wasser&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ TL Salz&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Ajvar&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;30 g Walnusskerne&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;grob hacken&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;100 g Feta&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;zerbröckeln&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Pfeffer&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/paprika-pasta-mit-feta-und-walnuessen.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/paprika-pasta-mit-feta-und-walnuessen.jpg&quot; alt=&quot;Paprika-Pasta mit Feta und Walnüssen&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Mon, 17 Oct 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/one%20pot%20pasta/paprika-pasta-mit-feta-und-walnuessen.html</link>
+        <guid isPermaLink="true">/cooking-recipes/one%20pot%20pasta/paprika-pasta-mit-feta-und-walnuessen.html</guid>
+        
+        <category>pasta</category>
+        
+        <category>vegetarisch</category>
+        
+        <category>balkanisch</category>
+        
+        
+        <category>One Pot Pasta</category>
+        
+      </item>
+    
+      <item>
+        <title>Kokos-Tomaten-Nudeln mit Spinat</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 34&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 25 min&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
+20 g Ingwer&lt;br&gt;
+1 rote Paprika (ca. 220 g)&lt;br&gt;
+2 Schalotten&lt;br&gt;
+2 Knoblauchzehen&lt;br&gt;
+150 g Babyspinat&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Nudeln/Saucen&lt;/strong&gt;&lt;br&gt;
+200 g Bavette (Kochzeit: 8 min.)&lt;br&gt;
+200 ml stückige TOmaten&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tiefkühl&lt;/strong&gt;&lt;br&gt;
+100 g TK-Erbsen&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+2-3 EL Limettensaft&lt;br&gt;
+30 g ungeröstete Kokoschips&lt;br&gt;
+200 g cremige Kokosmilch&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;12 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;30 g Kokoschips&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;ohne Fett rösten&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;beiseitelegen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;12&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Paprika&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;schmale Streifen schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;10&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;kochen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Schalotten&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;würfeln&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Knoblauchzehen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;20 g Ingwer&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;200 g Bavette&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;8&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;100 g TK-Erbsen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;200 ml Kokosmilch&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;200 ml stückige Tomaten&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;300 ml kaltes Wasser&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ TL Salz&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;150 g Babyspinat&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/kokos-tomaten-mit-spinat.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/kokos-tomaten-mit-spinat.jpg&quot; alt=&quot;Kokos-Tomaten-Nudeln mit Spinat&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Mon, 17 Oct 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/one%20pot%20pasta/kokos-tomaten-mit-spinat.html</link>
+        <guid isPermaLink="true">/cooking-recipes/one%20pot%20pasta/kokos-tomaten-mit-spinat.html</guid>
+        
+        <category>pasta</category>
+        
+        <category>vegetarisch</category>
+        
+        <category>indisch</category>
+        
+        
+        <category>One Pot Pasta</category>
+        
+      </item>
+    
+      <item>
+        <title>Curry-Nudeln mit Blumenkohl</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 14&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 30 min&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
+10 g Ingwer&lt;br&gt;
+½ Salatgurke&lt;br&gt;
+1 Bund Frühlingszwiebeln&lt;br&gt;
+6-8 Minzeblätter&lt;br&gt;
+1 Knoblauchzehe&lt;br&gt;
+½ kleiner Blumenkohl (ca. 250 g)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gewürz&lt;/strong&gt;&lt;br&gt;
+1 TL Currypulver&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Nudeln/Saucen&lt;/strong&gt;&lt;br&gt;
+200 g Maccheroncini (Kochzeit: 8-10 min)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+200 ml cremige Kokosmilch&lt;br&gt;
+¼ TL Chiliflocken&lt;br&gt;
+2 EL Erdnusskerne (geröstet und gesalzen)&lt;br&gt;
+70 g rote Linsen&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;6-8 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;6-7 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Bund Frühlingswiebeln&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen, 1 Frühlingszwiebel beiseitelegen, restliche in Ringe schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;9&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;kochen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;10&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;10&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;10 g Ingwer&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;schälen, würfeln&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Knoblauchzehe&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;12&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;200 g Macceroncini&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;200 ml Kokosmilch&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;600 ml Wasser&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 TL Salz&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 TL Currypulver&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;¼ TL Chiliflocken&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ kleinen Blumenkohl (ca. 250 g)&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen, große Röschen längs in dünne Scheiben teilen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ Salatgurke&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen, entkernen, fein würfeln&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;vermischen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;6-8 Minzeblätter&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen, fein schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Frühlingszwiebel&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;fein hacken&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Erdnusskerne&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;grob hacken&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/curry-nudeln-mit-blumenkohl.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/curry-nudeln-mit-blumenkohl.jpg&quot; alt=&quot;Curry-Nudeln mit Blumenkohl&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Sun, 16 Oct 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/one%20pot%20pasta/curry-nudeln-mit-blumenkohl.html</link>
+        <guid isPermaLink="true">/cooking-recipes/one%20pot%20pasta/curry-nudeln-mit-blumenkohl.html</guid>
+        
+        <category>pasta</category>
+        
+        <category>vegetarisch</category>
+        
+        <category>indisch</category>
+        
+        
+        <category>One Pot Pasta</category>
+        
+      </item>
+    
+      <item>
+        <title>Pasta alla Vesuviana</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 14&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 25 min&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
+1 Handvoll Rucola&lt;br&gt;
+3 Stiele Basilikum&lt;br&gt;
+1 Schalotte&lt;br&gt;
+2 Knoblauchzehen&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gewürz&lt;/strong&gt;&lt;br&gt;
+½ TL Oregano&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Nudeln/Saucen&lt;/strong&gt;&lt;br&gt;
+200 g Mafaldine (Kochzeit: 7-9 min)&lt;br&gt;
+300 ml stückige Tomaten&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Milch&lt;/strong&gt;&lt;br&gt;
+125 g Büffelmozzarella&lt;br&gt;
+20 g Pecorino (ersatzweise Parmesan)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+1 getrocknete Chilischote&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;col style=&quot;width: 25%;&quot;&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;12 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Schalotte&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;feine Scheiben schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;mit Basilikumstielen kochen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;11&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Basilikumstiele entfernen, restliche Zutaten hinzufügen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Knoblauchzehen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Chilischote&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;zerbröseln&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;3 Stiele Basilikum&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen, Blätter und Stiele trennen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;450 ml kaltes Wasser&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 TL Salz&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ TL Oregano&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;125 g Mozzarella&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;abtropfen, in kleine Stücke zerteilen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Handvoll Rucola&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen, harte Stiele entfernen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;20 g Pecorino&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Pfeffer&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/pasta-alla-vesuviana.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/pasta-alla-vesuviana.jpg&quot; alt=&quot;Pasta alla Vesuviana&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Sat, 15 Oct 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/one%20pot%20pasta/pasta-alla-vesuviana.html</link>
+        <guid isPermaLink="true">/cooking-recipes/one%20pot%20pasta/pasta-alla-vesuviana.html</guid>
+        
+        <category>pasta</category>
+        
+        <category>vegetarisch</category>
+        
+        <category>italienisch</category>
+        
+        
+        <category>One Pot Pasta</category>
+        
+      </item>
+    
+      <item>
+        <title>Grundrezept: Pasta</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 6&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 20&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Option aus jeder Kategorie auswählen&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;200 g Nudeln&lt;/strong&gt;&lt;br&gt;
+(angegebene/benötigte Kochzeit in Klammern)&lt;br&gt;
+Girandole, Mini-Hörnchennudeln (6 min / 10 min)&lt;br&gt;
+Spaghetti, Bavette, kurze Makkaroni (7-9 min / 10-12 min)&lt;br&gt;
+Penne, Maccheroncini (8-10 min / 12-15 min)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;650-750 ml kalte Flüssigkeit&lt;/strong&gt;&lt;br&gt;
+ca. 650 ml Brühe (teilweise ersetzbar durch Wein, Sojasauce, Fischsauce, Sherry, Milch)&lt;br&gt;
+500-600 ml Brühe + 150-250 ml Tomaten (frisch, stückig, passiert)&lt;br&gt;
+550-600 ml Brühe + 100-150 ml Sahne / cremige Kokosmilch&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;200-400 g Gemüse&lt;/strong&gt;&lt;br&gt;
+frisches Gemüse (z.B. .Schalotten, Zwiebeln, Frühlingszwiebeln, Karotten, Paprika, Zucchini, Lauch)&lt;br&gt;
+unaufgetautes Tiefkühl-Gemüse (Bohnen, Erbsen, Spinat, Wok-Gemüse)&lt;br&gt;
+Dosen-Gemüse (Mais, Kichererbsen, Bohnen)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;100-200 g Fleisch/Fisch&lt;/strong&gt;&lt;br&gt;
+Filet, Steak, Hackfleisch, Speck, BRatwurst&lt;br&gt;
+Fischfilet&lt;br&gt;
+TK-Garnelen&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gewürze&lt;/strong&gt;&lt;br&gt;
+Chili, Ingwer, Zitronengras, Würzpasten (Curry, Ajvar)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+½ TL Salz&lt;br&gt;
+Knoblauch&lt;br&gt;
+evtl. 1 EL Öl, Butter&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Beispiel: 200 g Spaghetti, 600 ml Gemüsebrühe, 150 ml Kokosmlich, 1 TL Salz, 1 TL geriebener Ingwer, 3 klein geschnittene Frühlingszwiebeln, 1 gewürfelter Zucchino und 100 g TK-Garnelen&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;width: 33.3333%;&quot;&gt;
+&lt;col style=&quot;width: 33.3333%;&quot;&gt;
+&lt;col style=&quot;width: 33.3334%;&quot;&gt;
+&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Gemüse&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;klein schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;in Pfanne mit hohem Rand oder Topf aufkochen&lt;br&gt;
+lassen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Fleisch&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Flüssigkeit&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Nudeln&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Gewürze&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/grundrezept-pasta.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/grundrezept-pasta.jpg&quot; alt=&quot;Grundrezept: Pasta&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Sat, 15 Oct 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/grundrezept-pasta.html</link>
+        <guid isPermaLink="true">/cooking-recipes/grundrezept-pasta.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Spaghetti mit Zwiebeln und Rindfleisch</title>
@@ -720,664 +1400,6 @@ oder hobeln&lt;/p&gt;&lt;/td&gt;
         <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
         <link>/cooking-recipes/roh-marinierter-fenchelsalat-mit-salami.html</link>
         <guid isPermaLink="true">/cooking-recipes/roh-marinierter-fenchelsalat-mit-salami.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Würzige Möhrensuppe mit Kokosmilch</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: Natürlich Essen, S. 172&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;:&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
-1-2 cm Ingwer&lt;br&gt;
-1/2 TL Kurkuma (gemahlen) oder 2 cm frische Kurkuma&lt;br&gt;
-3 Stengel frischer Koriander&lt;br&gt;
-2 Knoblauchzehen&lt;br&gt;
-1 Zwiebel&lt;br&gt;
-1 Fenchelknolle&lt;br&gt;
-3-4 Karotten&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-1 EL Kokosöl&lt;br&gt;
-140 ml Kokosmilch&lt;br&gt;
-½ getrocknete Chilischote&lt;br&gt;
-½-1 TL Currypulver&lt;br&gt;
-1 EL Olivenöl, extra vergine&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Optional: 1 Stengel Zitronengras&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Alternativ: Hokkaido-Kürbis oder Süßkartoffel anstelle Kartoffeln&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
-&lt;colgroup&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;col style=&quot;width: 12.5%;&quot;&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;2-3 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;10 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;10 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Kokosöl&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;erwärmen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;braten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;6&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;8&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;10&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;zum Kochen bringen, Hitze runter, am Ende pürieren&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;11&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;weiter köcheln lassen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;13&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen (auch restlichen Koriander)&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Zwiebel&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;würfeln&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Knoblauchzehen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1-2 cm Ingwer&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;11&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;klein hacken&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 cm Kurkuma&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ Chilischote&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;3-4 Karotten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;würfeln&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Fenchel&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;3 Stengel Koriander&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Stengel und Blätter getrennt hacken&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;500 ml Brühe&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;140 ml Kokosmilch&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Olivenöl&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1/2 TL Salz&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Wed, 07 Sep 2016 00:00:00 +0200</pubDate>
-        <link>/cooking-recipes/wuerzige-moehrensuppe-mit-kokosmilch.html</link>
-        <guid isPermaLink="true">/cooking-recipes/wuerzige-moehrensuppe-mit-kokosmilch.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Rote Linsensuppe mit Spinat und Zitrone</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: Natürlich Essen, S. 173&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;:&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
-Saft von ½ Zitrone&lt;br&gt;
-frische Petersilie&lt;br&gt;
-2-3 Knoblauchzehen&lt;br&gt;
-½ Zwiebel&lt;br&gt;
-450 g frischer Spinat&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-200 g rote Linsen&lt;br&gt;
-700 ml Brühe&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
-&lt;colgroup&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.667%;&quot;&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;10-15 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;5 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Olivenöl&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;erhitzen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;andünsten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen, bei geringer Hitze köcheln&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen; am Ende pürieren&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;10&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ Zwiebel&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2-3 Knoblauchzehen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;200 g rote Linsen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;700 ml Brühe&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;6&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;450 g Spinat&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Salz ,Pfeffer&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;frische Petersilie&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Saft von ½ Zitrone&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Olivenöl&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Wed, 07 Sep 2016 00:00:00 +0200</pubDate>
-        <link>/cooking-recipes/rote-linsensuppe-mit-spinat-und-zitrone.html</link>
-        <guid isPermaLink="true">/cooking-recipes/rote-linsensuppe-mit-spinat-und-zitrone.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Grundrezept Curry</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: Natürlich Essen, S. 177&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;:&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
-1-2 EL frische Kräuter (Koriander, Petersilie)&lt;br&gt;
-200-250 g Gemüse (je 2-4 von Blumenkohl, Brokkoli, Kürbis, Lauch, Karotten, Rote Bete, Süßkartoffeln oder Zucchini)&lt;br&gt;
-2 Zwiebeln oder Schalotten&lt;br&gt;
-1-2 Knoblauchzehen&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-100 g Hülsenfrüchte (Linsen oder Kichererbsen)&lt;br&gt;
-½-1 TL Gewürze (Koriander, Kurkuma, Zimt, Kümmel, Fenchelsamen, Chili, Paprika, Curry)&lt;br&gt;
-350-400 ml Kokosmilch&lt;br&gt;
-Limeten-/Zitronensaft&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Alternativ: Kokosmilch mit passierten Tomaten, 2 EL Sesam anstelle von Tahini&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Beispiel Gewürzmischung:&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;ulist&quot;&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;½ TL Zimt&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;½ TL Kurkuma&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;¾ Kümmelsamen&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;½ Paprikapulver&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
-&lt;colgroup&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;col style=&quot;width: 20%;&quot;&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;15-30 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;5 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;(Linsen)&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; colspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;waschen, kochen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;9&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Gemüse&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;dünsten&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;härteres Gewürze&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;mischen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Tahini/Sesam&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;6&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Kokosmilch&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;weiches Gemüse (Süßkartoffel)&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;(Honig)&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;frische Gewürze&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Limettensaft&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;figure class=&quot;half &quot;&gt;
-
-
-      &lt;a href=
-
-          &quot;/cooking-recipes/images/curry.jpg&quot;
-
-
-      &gt;
-        &lt;img src=
-
-            &quot;/cooking-recipes/images/thumbnail/curry.jpg&quot;
-
-          alt=&quot;&quot;&gt;
-      &lt;/a&gt;
-
-
-
-      &lt;a href=
-
-          &quot;/cooking-recipes/images/curry-2.jpg&quot;
-
-
-      &gt;
-        &lt;img src=
-
-            &quot;/cooking-recipes/images/thumbnail/curry-2.jpg&quot;
-
-          alt=&quot;&quot;&gt;
-      &lt;/a&gt;
-
-
-
-    &lt;figcaption&gt;Grundrezept Curry
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Wed, 07 Sep 2016 00:00:00 +0200</pubDate>
-        <link>/cooking-recipes/curry.html</link>
-        <guid isPermaLink="true">/cooking-recipes/curry.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Schnitzel-Wok</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: Basic Cooking 2, S. 118&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 30&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
-1 große gelbe Paprikaschote&lt;br&gt;
-1 Stange Lauch&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Fleisch&lt;/strong&gt;&lt;br&gt;
-2 Schweineschnitzel (etwa 300 g)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Milch&lt;/strong&gt;&lt;br&gt;
-2 EL Crème fraîche&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-200 ml Fleischbrühe oder –fond&lt;br&gt;
-1 EL Weißweinessig&lt;br&gt;
-3 EL Sonnenblumenöl&lt;br&gt;
-1 EL Senf&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
-&lt;colgroup&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.6666%;&quot;&gt;
-&lt;col style=&quot;width: 16.667%;&quot;&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;3 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;1-2 Minuten&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Schweineschnitzel&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;längs halbieren, in 1 cm dicke Streifen schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;anbraten auf starker Hitze, salzen, pfeffern&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;heraus nehmen, abgedeckt warm halten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;8&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Stange Lauch&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;in Scheiben schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;anbraten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Paprika&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;in breite Streifen schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;200 ml Fleischbrühe oder –fond&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;verquirlen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Weißweinessig&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Senf&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Crème fraîche&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Salz, Pfeffer, Zucker&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Sat, 16 Jan 2016 00:00:00 +0100</pubDate>
-        <link>/cooking-recipes/schnitzel-wok.html</link>
-        <guid isPermaLink="true">/cooking-recipes/schnitzel-wok.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Brokkolicreme mit gerösteten Pinienkernen</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: Basic Cooking 2, S. 64&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 30&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 4&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
-2 Schalotten (Zwiebeln)&lt;br&gt;
-500 g Brokkoli&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gewürze&lt;/strong&gt;&lt;br&gt;
-frisch geriebene Muskatnuss&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-1-2 EL Zitronensaft&lt;br&gt;
-2 EL Pinienkerne&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
-&lt;colgroup&gt;
-&lt;col style=&quot;width: 14.2857%;&quot;&gt;
-&lt;col style=&quot;width: 14.2857%;&quot;&gt;
-&lt;col style=&quot;width: 14.2857%;&quot;&gt;
-&lt;col style=&quot;width: 14.2857%;&quot;&gt;
-&lt;col style=&quot;width: 14.2857%;&quot;&gt;
-&lt;col style=&quot;width: 14.2857%;&quot;&gt;
-&lt;col style=&quot;width: 14.2858%;&quot;&gt;
-&lt;/colgroup&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;10 Minuten&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Butter&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;in Topf erhitzen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;kurz andünsten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;kurz andünsten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;bei&lt;br&gt;
-geringer Hitze köcheln&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;pürieren&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;8&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;bestreuen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Schalotten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;500 g Brokkoli&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Ende vom Strunk abschneiden, Röschen abtrennen, Stiele&lt;br&gt;
-schälen, Scheiben schneiden, in Sieb abbrausen&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;6&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;500 ml Gemüsebrühe&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Salz, Pfeffer&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Muskat&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2-2 EL Zitronensaft&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Pinienkerne&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;in Pfanne ohne Fett anrösten&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/brokkolicreme-mit-geroesteten-pinienkernen.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/brokkolicreme-mit-geroesteten-pinienkernen.jpg&quot; alt=&quot;Brokkolicreme mit gerösteten Pinienkernen&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Fri, 15 Jan 2016 00:00:00 +0100</pubDate>
-        <link>/cooking-recipes/brokkolicreme-mit-geroesteten-pinienkernen.html</link>
-        <guid isPermaLink="true">/cooking-recipes/brokkolicreme-mit-geroesteten-pinienkernen.html</guid>
         
         
       </item>
