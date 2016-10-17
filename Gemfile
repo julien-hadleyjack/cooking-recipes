@@ -31,7 +31,13 @@ gem "minima"
 group :jekyll_plugins do
 	gem 'jekyll-asciidoc'
 	gem 'jekyll-sitemap'
-	gem 'jekyll-archives'	# gem 'jekyll-paginate'
+	gem 'jekyll-archives'
+
+  # needed for _plugins/create_thumbnails.rb
+  gem 'ruby-filemagic'
+  gem 'mini_magick'
+
+  # gem 'jekyll-paginate'
 	# gem 'jekyll-feed'
 end
 
