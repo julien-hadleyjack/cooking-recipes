@@ -1,0 +1,79 @@
+---
+header:
+  teaser: thumbnail/kokos-tomaten-mit-spinat.jpg
+gallery:
+  - url: kokos-tomaten-mit-spinat.jpg
+    image_path: thumbnail/kokos-tomaten-mit-spinat.jpg
+---
+= Kokos-Tomaten-Nudeln mit Spinat
+:page-layout: single
+:page-categories: ["One Pot Pasta"]
+:page-tags: ["pasta", "vegetarisch", "indisch"]
+:epub-picture: kokos-tomaten-mit-spinat.jpg
+:page-liquid:
+
+**Quelle**: One Pot Pasta, S. 34
+
+**Zubereitungszeit**: 25 min
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+20 g Ingwer
+1 rote Paprika (ca. 220 g)
+2 Schalotten
+2 Knoblauchzehen
+150 g Babyspinat
+
+**Nudeln/Saucen**
+200 g Bavette (Kochzeit: 8 min.)
+200 ml stückige TOmaten
+
+**Tiefkühl**
+100 g TK-Erbsen
+
+**sonstiges**
+2-3 EL Limettensaft
+30 g ungeröstete Kokoschips
+200 g cremige Kokosmilch
+
+<<<
+
+== Rezept
+
+[cols=",,,",options="header",]
+|==================================================
+| | |12 Minuten |
+|30 g Kokoschips |ohne Fett rösten |beiseitelegen .12+|hinzufügen
+|1 Paprika |schmale Streifen schneiden .10+|kochen
+|2 Schalotten .3+|würfeln
+|2 Knoblauchzehen
+|20 g Ingwer
+|200 g Bavette .8+|
+|100 g TK-Erbsen
+|200 ml Kokosmilch
+|200 ml stückige Tomaten
+|300 ml kaltes Wasser
+|½ TL Salz
+|150 g Babyspinat |waschen
+|2-3 EL Limettensaft |
+|==================================================
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

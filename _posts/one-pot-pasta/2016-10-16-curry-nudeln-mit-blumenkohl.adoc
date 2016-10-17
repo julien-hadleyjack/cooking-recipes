@@ -1,0 +1,96 @@
+---
+header:
+  teaser: thumbnail/curry-nudeln-mit-blumenkohl.jpg
+gallery:
+  - url: curry-nudeln-mit-blumenkohl.jpg
+    image_path: thumbnail/curry-nudeln-mit-blumenkohl.jpg
+---
+= Curry-Nudeln mit Blumenkohl
+:page-layout: single
+:page-categories: ["One Pot Pasta"]
+:page-tags: ["pasta", "vegetarisch", "indisch"]
+:epub-picture: curry-nudeln-mit-blumenkohl.jpg
+:page-liquid:
+
+**Quelle**: One Pot Pasta, S. 14
+
+**Zubereitungszeit**: 30 min
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+10 g Ingwer
+½ Salatgurke
+1 Bund Frühlingszwiebeln
+6-8 Minzeblätter
+1 Knoblauchzehe
+½ kleiner Blumenkohl (ca. 250 g)
+
+**Gewürz**
+1 TL Currypulver
+
+**Nudeln/Saucen**
+200 g Maccheroncini (Kochzeit: 8-10 min)
+
+**sonstiges**
+200 ml cremige Kokosmilch
+¼ TL Chiliflocken
+2 EL Erdnusskerne (geröstet und gesalzen)
+70 g rote Linsen
+
+
+<<<
+
+== Rezept
+
+[cols=",,,,",options="header",]
+|=======================================================================
+| | |6-8 Minuten |6-7 Minuten |
+
+|1 Bund Frühlingswiebeln |waschen, 1 Frühlingszwiebel beiseitelegen, restliche in Ringe schneiden .9+|kochen .10+|hinzufügen .10+|
+
+|10 g Ingwer |schälen, würfeln
+
+|1 Knoblauchzehe .12+|
+
+|200 g Macceroncini
+
+|200 ml Kokosmilch
+
+|600 ml Wasser
+
+|1 TL Salz
+
+|1 TL Currypulver
+
+|¼ TL Chiliflocken
+
+|½ kleinen Blumenkohl (ca. 250 g) |waschen, große Röschen längs in dünne Scheiben teilen
+
+|½ Salatgurke .4+| |waschen, entkernen, fein würfeln .4+|vermischen
+
+|6-8 Minzeblätter |waschen, fein schneiden
+
+|1 Frühlingszwiebel |fein hacken
+
+|2 EL Erdnusskerne | grob hacken
+|=======================================================================
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

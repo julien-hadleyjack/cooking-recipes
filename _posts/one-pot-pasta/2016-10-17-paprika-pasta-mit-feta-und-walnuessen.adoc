@@ -1,0 +1,92 @@
+---
+header:
+  teaser: thumbnail/paprika-pasta-mit-feta-und-walnuessen.jpg
+gallery:
+  - url: paprika-pasta-mit-feta-und-walnuessen.jpg
+    image_path: thumbnail/paprika-pasta-mit-feta-und-walnuessen.jpg
+---
+= Paprika-Pasta mit Feta und Walnüssen
+:page-layout: single
+:page-categories: ["One Pot Pasta"]
+:page-tags: ["pasta", "vegetarisch", "balkanisch"]
+:epub-picture: paprika-pasta-mit-feta-und-walnuessen.jpg
+:page-liquid:
+
+**Quelle**: One Pot Pasta, S. 14
+
+**Zubereitungszeit**: 25 min
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+1 rote Paprika (ca. 200 g)
+200 g Kirschtomaten
+2 Stiele Basilikum
+1 rote Zwiebel
+1 Knoblauchzehe
+
+**Nudeln/Saucen**
+200 g Maccheroncini (Kochzwei: 8-10 min.)
+
+**Milch**
+100 g Feta
+
+**sonstiges**
+50 g getrocknete Tomaten (in Öl)
+2 EL Ajvar (Paprikapaste)
+30 g Walnusskerne
+
+<<<
+
+== Rezept
+
+[cols=",,,",options="header",]
+|=======================================================================
+| | |15 Minuten |
+
+|1 Paprika |Streifen schneiden .10+|kochen mit Basilikumstiele .13+|Stiele entfernen, Rest (auch Basilikumblätter) hinzufügen
+
+|50 g getrocknete Tomaten |abtropfen, klein würfeln
+
+|200 g Kirschtomaten |halbieren
+
+|1 rote Zwiebel .2+|feine Scheiben schneiden
+
+|1 Knoblauchzehe
+
+|2 Stiele Basilikum |waschen, Blätter und Stiel trennen
+
+|2 EL Olivenöl .7+|
+
+|500 ml kaltes Wasser
+
+|½ TL Salz
+
+|2 EL Ajvar
+
+|30 g Walnusskerne |grob hacken
+
+|100 g Feta |zerbröckeln
+
+|Pfeffer |
+|=======================================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

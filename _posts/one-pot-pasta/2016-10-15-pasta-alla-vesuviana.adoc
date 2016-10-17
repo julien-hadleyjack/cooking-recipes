@@ -1,0 +1,89 @@
+---
+header:
+  teaser: thumbnail/pasta-alla-vesuviana.jpg
+gallery:
+  - url: pasta-alla-vesuviana.jpg
+    image_path: thumbnail/pasta-alla-vesuviana.jpg
+---
+= Pasta alla Vesuviana
+:page-layout: single
+:page-categories: ["One Pot Pasta"]
+:page-tags: ["pasta", "vegetarisch", "italienisch"]
+:epub-picture: pasta-alla-vesuviana.jpg
+:page-liquid:
+
+**Quelle**: One Pot Pasta, S. 14
+
+**Zubereitungszeit**: 25 min
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+1 Handvoll Rucola
+3 Stiele Basilikum
+1 Schalotte
+2 Knoblauchzehen
+
+**Gewürz**
+½ TL Oregano
+
+**Nudeln/Saucen**
+200 g Mafaldine (Kochzeit: 7-9 min)
+300 ml stückige Tomaten
+
+**Milch**
+125 g Büffelmozzarella
+20 g Pecorino (ersatzweise Parmesan)
+
+**sonstiges**
+1 getrocknete Chilischote
+
+<<<
+
+== Rezept
+
+[cols=",,,",options="header",]
+|=======================================================================
+| | |12 Minuten |
+
+|1 Schalotte .2+|feine Scheiben schneiden .7+|mit Basilikumstielen kochen .11+|Basilikumstiele entfernen, restliche Zutaten hinzufügen
+
+|2 Knoblauchzehen
+
+|1 Chilischote |zerbröseln
+
+|3 Stiele Basilikum |waschen, Blätter und Stiele trennen
+
+|450 ml kaltes Wasser .7+|
+
+|1 TL Salz
+
+|½ TL Oregano
+
+|125 g Mozzarella |abtropfen, in kleine Stücke zerteilen
+
+|1 Handvoll Rucola |waschen, harte Stiele entfernen
+
+|20 g Pecorino .2+|
+
+|Pfeffer
+|=======================================================================
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

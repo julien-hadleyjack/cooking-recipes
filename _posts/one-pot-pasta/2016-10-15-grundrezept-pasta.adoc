@@ -1,0 +1,93 @@
+---
+header:
+  teaser: thumbnail/grundrezept-pasta.jpg
+gallery:
+  - url: grundrezept-pasta.jpg
+    image_path: thumbnail/grundrezept-pasta.jpg
+---
+= Grundrezept: Pasta
+:page-layout: single
+:epub-picture: grundrezept-pasta.jpg
+:page-liquid:
+
+
+**Quelle**: One Pot Pasta, S. 6
+
+**Zubereitungszeit**: 20
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+Option aus jeder Kategorie auswählen
+
+**200 g Nudeln**
+(angegebene/benötigte Kochzeit in Klammern)
+Girandole, Mini-Hörnchennudeln (6 min / 10 min)
+Spaghetti, Bavette, kurze Makkaroni (7-9 min / 10-12 min)
+Penne, Maccheroncini (8-10 min / 12-15 min)
+
+**650-750 ml kalte Flüssigkeit**
+ca. 650 ml Brühe (teilweise ersetzbar durch Wein, Sojasauce, Fischsauce, Sherry, Milch)
+500-600 ml Brühe + 150-250 ml Tomaten (frisch, stückig, passiert)
+550-600 ml Brühe + 100-150 ml Sahne / cremige Kokosmilch
+
+**200-400 g Gemüse**
+frisches Gemüse (z.B. .Schalotten, Zwiebeln, Frühlingszwiebeln, Karotten, Paprika, Zucchini, Lauch)
+unaufgetautes Tiefkühl-Gemüse (Bohnen, Erbsen, Spinat, Wok-Gemüse)
+Dosen-Gemüse (Mais, Kichererbsen, Bohnen)
+
+**100-200 g Fleisch/Fisch**
+Filet, Steak, Hackfleisch, Speck, BRatwurst
+Fischfilet
+TK-Garnelen
+
+**Gewürze**
+Chili, Ingwer, Zitronengras, Würzpasten (Curry, Ajvar)
+
+**sonstiges**
+½ TL Salz
+Knoblauch
+evtl. 1 EL Öl, Butter
+
+
+== Kommentar
+
+Beispiel: 200 g Spaghetti, 600 ml Gemüsebrühe, 150 ml Kokosmlich, 1 TL Salz, 1 TL geriebener Ingwer, 3 klein geschnittene Frühlingszwiebeln, 1 gewürfelter Zucchino und 100 g TK-Garnelen
+
+
+<<<
+
+== Rezept
+
+[cols=",,"]
+|=======================================================================
+|Gemüse .2+|klein schneiden .5+|in Pfanne mit hohem Rand oder Topf aufkochen
+lassen
+
+|Fleisch
+
+|Flüssigkeit .3+|
+
+|Nudeln
+
+|Gewürze
+|=======================================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]
