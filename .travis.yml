@@ -9,8 +9,11 @@ branches:
   - master
 
 script:
+- bundle exec jekyll build --config _config.yml,_test_config.yml
+- bundle exec htmlproofer ./_site --disable-external
+- bundle exec jekyll clean
 - bundle exec jekyll build
-#- bundle exec htmlproofer ./_site --disable-external
+
 
 after_success:
 - git clone https://$GH_REF ${TARGET_BRANCH}
