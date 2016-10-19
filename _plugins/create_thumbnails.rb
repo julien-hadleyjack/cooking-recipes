@@ -27,19 +27,20 @@ module Jekyll
           next
         end
 
-        puts "Thumbnailing #{rel_path} (#{width}x#{height})."
+
 
         dir_name = File.dirname thumb_file
-        unless File.directory?(dir_name)
-          "Creating directory #{dir_name}"
-          FileUtils.mkdir_p(dir_name)
+        unless File.exists? dir_name
+          puts "Creating directory #{dir_name}"
+          FileUtils.mkdir_p dir_name
         end
 
+        puts "Thumbnailing #{rel_path} (#{width}x#{height})."
         image = MiniMagick::Image.open(file)
         image.resize "#{width}x#{height}^"
         image.gravity 'center'
         image.extent "#{width}x#{height}"
-        image.write thumb_file
+        #image.write thumb_file
         image.destroy!
       end
 
