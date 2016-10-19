@@ -40,7 +40,7 @@ module Jekyll
         image.resize "#{width}x#{height}^"
         image.gravity 'center'
         image.extent "#{width}x#{height}"
-        #image.write thumb_file
+        image.write thumb_file
         image.destroy!
       end
 

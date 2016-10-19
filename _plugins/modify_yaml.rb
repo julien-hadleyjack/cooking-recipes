@@ -6,7 +6,7 @@ module Jekyll
 
       prefix = 'thumbnail'
 
-      (site.pages + site.posts).each.each do |page|
+      (site.pages + site.posts.docs).each.each do |page|
         next unless page.data.include?('gallery')
         page.data['gallery'] = [page.data['gallery']] if page.data['gallery'].is_a?(String)
 
