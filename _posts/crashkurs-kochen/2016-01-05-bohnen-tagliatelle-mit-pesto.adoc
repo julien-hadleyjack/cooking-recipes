@@ -1,14 +1,6 @@
----
-header:
-  teaser: thumbnail/bohnen-tagliatelle-mit-pesto.jpg
-gallery:
-  - url: bohnen-tagliatelle-mit-pesto.jpg
-    image_path: thumbnail/bohnen-tagliatelle-mit-pesto.jpg
-  - url: bohnen-tagliatelle-mit-pesto-2.jpg
-    image_path: thumbnail/bohnen-tagliatelle-mit-pesto-2.jpg
----
 = Bohnen-Tagliatelle mit Pesto
 :page-layout: single
+:page-gallery: ['bohnen-tagliatelle-mit-pesto.jpg', 'bohnen-tagliatelle-mit-pesto-2.jpg']
 :epub-picture: bohnen-tagliatelle-mit-pesto.jpg
 :page-liquid:
 
@@ -64,7 +56,7 @@ gallery:
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

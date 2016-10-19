@@ -1,12 +1,6 @@
----
-header:
-  teaser: thumbnail/roh-marinierter-fenchelsalat-mit-salami.jpg
-gallery:
-  - url: roh-marinierter-fenchelsalat-mit-salami.jpg
-    image_path: thumbnail/roh-marinierter-fenchelsalat-mit-salami.jpg
----
 = Roh marinierter Fenchelsalat mit Salami
 :page-layout: single
+:page-gallery: roh-marinierter-fenchelsalat-mit-salami.jpg
 :epub-picture: roh-marinierter-fenchelsalat-mit-salami.jpg
 :page-liquid:
 
@@ -86,7 +80,7 @@ oder hobeln |
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

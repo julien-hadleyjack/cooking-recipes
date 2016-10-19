@@ -1,12 +1,6 @@
----
-header:
-  teaser: thumbnail/grundrezept-pasta.jpg
-gallery:
-  - url: grundrezept-pasta.jpg
-    image_path: thumbnail/grundrezept-pasta.jpg
----
 = Grundrezept: Pasta
 :page-layout: single
+:page-gallery: grundrezept-pasta.jpg
 :epub-picture: grundrezept-pasta.jpg
 :page-liquid:
 
@@ -80,7 +74,7 @@ lassen
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

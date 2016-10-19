@@ -1,12 +1,6 @@
----
-header:
-  teaser: thumbnail/asiatischer-weißkohlsalat.jpg
-gallery:
-  - url: asiatischer-weißkohlsalat.jpg
-    image_path: thumbnail/asiatischer-weißkohlsalat.jpg
----
 = Asiatischer Weißkohlsalat
 :page-layout: single
+:page-gallery: asiatischer-weißkohlsalat.jpg
 :epub-picture: asiatischer-weißkohlsalat.jpg
 :page-liquid:
 
@@ -77,7 +71,7 @@ schneiden .2+|hinzufügen und durchkneten .4+|vermischen .11+|durchziehen
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

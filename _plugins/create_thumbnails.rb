@@ -2,6 +2,7 @@ require 'filemagic'
 require 'pathname'
 require 'mini_magick'
 require 'fileutils'
+require 'find'
 
 
 module Jekyll
@@ -9,49 +10,40 @@ module Jekyll
   class ThumbGenerator < Generator
 
     def generate(site)
-
-      suffix = '-thumb'
+      prefix = 'thumbnail'
       width = 500
       height = 300
 
-      site.static_files.each do |file|
-        directory = File.dirname file.path
-        file_name = File.basename file.path, '.*'
-        extension = File.extname file.path
+      asset_root = File.join site.source, 'images'
+      reject = File.join asset_root, prefix
 
-        #root_path = Pathname.new(__FILE__ + '/../..').realpath
-        #rel_path = Pathname.new(file.path).relative_path_from(root_path)
-        thumb_file = File.join directory, file_name + suffix + extension
 
-        allowed_images = %w(image/jpeg image/png)
-        if !allowed_images.include?(FileMagic.new(FileMagic::MAGIC_MIME_TYPE).file(file.path)) or
-            file_name.end_with?(suffix) or
-            (File.exists?(thumb_file) and File.mtime(thumb_file) > File.mtime(file.path))
+      Find.find(asset_root).each do |file|
+        rel_path = Pathname.new(file).relative_path_from(Pathname.new(asset_root))
+        thumb_file = File.join site.source, 'images', prefix, rel_path
+
+        if file.start_with?(reject) or !FileMagic.new(FileMagic::MAGIC_MIME_TYPE).file(file).include?('image/') or
+            (File.exists?(thumb_file) and File.mtime(thumb_file) > File.mtime(file))
           next
         end
 
-        #dirname = File.join site.dest, File.dirname(rel_path)
-        #unless File.directory?(dirname)
-        #  FileUtils.mkdir_p(dirname)
-        #end
+        puts "Thumbnailing #{rel_path} (#{width}x#{height})."
 
-        puts "Thumbnailing #{thumb_file} (#{width}x#{height})"
-        image = MiniMagick::Image.open(file.path)
+        dir_name = File.dirname thumb_file
+        unless File.directory?(dir_name)
+          FileUtils.mkdir_p(dir_name)
+        end
+
+        image = MiniMagick::Image.open(file)
         image.resize "#{width}x#{height}^"
         image.gravity 'center'
         image.extent "#{width}x#{height}"
         image.write thumb_file
-
-        # site.static_files << StaticFile.new site, file.path, File.basename(thumb_file),File.basename(thumb_file, '.*')
-        #site.static_files << StaticFile.new site, site.dest, @config['dir'], name
-        #site.static_files << Jekyll::StaticFile.new(site, file.path, site.dest, File.dirname(rel_path), File.basename(thumb_file))
-        #site.static_files << Jekyll::StaticFile.new(site, site.dest, '/', File.basename(thumb_file))
-        #puts "Path: " + File.join(site.dest, File.dirname(rel_path), File.basename(thumb_file))
-        #site.static_files << Jekyll::StaticFile.new(site, site.dest, File.dirname(rel_path), File.basename(thumb_file))
+        image.destroy!
       end
 
     end
 
-  end
+end
 
 end

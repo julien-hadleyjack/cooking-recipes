@@ -1,14 +1,9 @@
----
-header:
-  teaser: thumbnail/cajun-gemuesepfanne.jpg
-gallery:
-  - url: cajun-gemuesepfanne.jpg
-    image_path: thumbnail/cajun-gemuesepfanne.jpg
----
 = Cajun-Gemüsepfanne
 :page-layout: single
 :tags: pfanne, hauptgericht
+:page-gallery: cajun-gemuesepfanne.jpg
 :epub-picture: cajun-gemuesepfanne.jpg
+
 :page-liquid:
 
 **Quelle**: 20 Minuten sind genug
@@ -67,7 +62,7 @@ gemahlener Kreuzkümmel
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

@@ -1,12 +1,6 @@
----
-header:
-  teaser: thumbnail/steak-sandwich.jpg
-gallery:
-  - url: steak-sandwich.jpg
-    image_path: thumbnail/steak-sandwich.jpg
----
 = Steak-Sandwich
 :page-layout: single
+:page-gallery: steak-sandwich.jpg
 :epub-picture: steak-sandwich.jpg
 :page-liquid:
 
@@ -71,7 +65,7 @@ Dazu passt: Senf, Gurkenscheiben oder Gurkenrelish (aus dem Glas)
 
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

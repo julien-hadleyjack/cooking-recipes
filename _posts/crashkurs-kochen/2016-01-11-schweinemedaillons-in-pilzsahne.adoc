@@ -1,14 +1,6 @@
----
-header:
-  teaser: thumbnail/schweinemedaillons-in-pilzsahne.jpg
-gallery:
-  - url: schweinemedaillons-in-pilzsahne.jpg
-    image_path: thumbnail/schweinemedaillons-in-pilzsahne.jpg
-  - url: schweinemedaillons-in-pilzsahne-2.jpg
-    image_path: thumbnail/schweinemedaillons-in-pilzsahne-2.jpg
----
 = Schweinemedaillons in Pilzsahne
 :page-layout: single
+:page-gallery: schweinemedaillons-in-pilzsahne.jpg
 :epub-picture: schweinemedaillons-in-pilzsahne.jpg
 :page-liquid:
 
@@ -71,7 +63,7 @@ salzen, pfeffern |braten auf mittlerer Hitze 2+|entfernen .7+|vermischen
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

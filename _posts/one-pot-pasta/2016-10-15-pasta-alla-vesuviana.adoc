@@ -1,14 +1,8 @@
----
-header:
-  teaser: thumbnail/pasta-alla-vesuviana.jpg
-gallery:
-  - url: pasta-alla-vesuviana.jpg
-    image_path: thumbnail/pasta-alla-vesuviana.jpg
----
 = Pasta alla Vesuviana
 :page-layout: single
 :page-categories: ["One Pot Pasta"]
 :page-tags: ["pasta", "vegetarisch", "italienisch"]
+:page-gallery: pasta-alla-vesuviana.jpg
 :epub-picture: pasta-alla-vesuviana.jpg
 :page-liquid:
 
@@ -76,7 +70,7 @@ gallery:
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

@@ -1,12 +1,6 @@
----
-header:
-  teaser: thumbnail/griechicher-salat-mit-tomatensauce.jpg
-gallery:
-  - url: griechicher-salat-mit-tomatensauce.jpg
-    image_path: thumbnail/griechicher-salat-mit-tomatensauce.jpg
----
 = Griechischer Salat mit Tomatensauce
 :page-layout: single
+:page-gallery: griechicher-salat-mit-tomatensauce.jpg
 :epub-picture: griechicher-salat-mit-tomatensauce.jpg
 :page-liquid:
 
@@ -61,7 +55,7 @@ Dazu schmeckt: Fladenbrot
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

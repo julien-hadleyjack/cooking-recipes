@@ -1,14 +1,8 @@
----
-header:
-  teaser: thumbnail/curry-nudeln-mit-blumenkohl.jpg
-gallery:
-  - url: curry-nudeln-mit-blumenkohl.jpg
-    image_path: thumbnail/curry-nudeln-mit-blumenkohl.jpg
----
 = Curry-Nudeln mit Blumenkohl
 :page-layout: single
 :page-categories: ["One Pot Pasta"]
 :page-tags: ["pasta", "vegetarisch", "indisch"]
+:page-gallery: curry-nudeln-mit-blumenkohl.jpg
 :epub-picture: curry-nudeln-mit-blumenkohl.jpg
 :page-liquid:
 
@@ -83,7 +77,7 @@ gallery:
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

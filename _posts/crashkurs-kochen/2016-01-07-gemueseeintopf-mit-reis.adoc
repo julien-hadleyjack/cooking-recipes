@@ -1,12 +1,6 @@
----
-header:
-  teaser: thumbnail/gemueseeintopf-mit-reis.jpg
-gallery:
-  - url: gemueseeintopf-mit-reis.jpg
-    image_path: thumbnail/gemueseeintopf-mit-reis.jpg
----
 = Gemüseeintopf mit Reis
 :page-layout: single
+:page-gallery: gemueseeintopf-mit-reis.jpg
 :epub-picture: gemueseeintopf-mit-reis.jpg
 :page-liquid:
 
@@ -62,7 +56,7 @@ Mehr Flüssigkeit
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

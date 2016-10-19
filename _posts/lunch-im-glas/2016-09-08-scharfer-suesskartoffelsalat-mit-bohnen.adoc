@@ -1,12 +1,6 @@
----
-header:
-  teaser: thumbnail/scharfer-suesskartoffelsalat-mit-bohnen.jpg
-gallery:
-  - url: scharfer-suesskartoffelsalat-mit-bohnen.jpg
-    image_path: thumbnail/scharfer-suesskartoffelsalat-mit-bohnen.jpg
----
 = Scharfer Süßkartfoffelsalat mit Bohnen
 :page-layout: single
+:page-gallery: scharfer-suesskartoffelsalat-mit-bohnen.jpg
 :epub-picture: scharfer-suesskartoffelsalat-mit-bohnen.jpg
 :page-liquid:
 
@@ -84,7 +78,7 @@ hinzufügen
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

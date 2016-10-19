@@ -1,12 +1,6 @@
----
-header:
-  teaser: thumbnail/ungarische-reispfanne.jpg
-gallery:
-  - url: ungarische-reispfanne.jpg
-    image_path: thumbnail/ungarische-reispfanne.jpg
----
 = Ungarische Reispfanne
 :page-layout: single
+:page-gallery: ungarische-reispfanne.jpg
 :epub-picture: ungarische-reispfanne.jpg
 :page-liquid:
 
@@ -68,7 +62,7 @@ edelsüßes Paprikapulver
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

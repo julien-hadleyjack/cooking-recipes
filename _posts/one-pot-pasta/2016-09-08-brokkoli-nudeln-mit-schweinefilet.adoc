@@ -1,12 +1,7 @@
----
-header:
-  teaser: thumbnail/brokkoli-nudeln-mit-schweinefilet.jpg
-gallery:
-  - url: brokkoli-nudeln-mit-schweinefilet.jpg
-    image_path: thumbnail/brokkoli-nudeln-mit-schweinefilet.jpg
----
+
 = Brokkoli-Nudeln mit Schweinefilet
 :page-layout: single
+:page-gallery: brokkoli-nudeln-mit-schweinefilet.jpg
 :epub-picture: brokkoli-nudeln-mit-schweinefilet.jpg
 :page-liquid:
 
@@ -83,7 +78,7 @@ anbraten |herausnehmen |hinzufügen
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

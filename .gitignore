@@ -4,3 +4,4 @@ _site
 ~$*.doc*
 -thumb.*
 .idea/
+images/thumbnail/

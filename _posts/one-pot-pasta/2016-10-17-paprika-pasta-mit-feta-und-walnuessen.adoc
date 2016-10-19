@@ -1,14 +1,8 @@
----
-header:
-  teaser: thumbnail/paprika-pasta-mit-feta-und-walnuessen.jpg
-gallery:
-  - url: paprika-pasta-mit-feta-und-walnuessen.jpg
-    image_path: thumbnail/paprika-pasta-mit-feta-und-walnuessen.jpg
----
 = Paprika-Pasta mit Feta und Walnüssen
 :page-layout: single
 :page-categories: ["One Pot Pasta"]
 :page-tags: ["pasta", "vegetarisch", "balkanisch"]
+:page-gallery: paprika-pasta-mit-feta-und-walnuessen.jpg
 :epub-picture: paprika-pasta-mit-feta-und-walnuessen.jpg
 :page-liquid:
 
@@ -79,7 +73,7 @@ gallery:
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

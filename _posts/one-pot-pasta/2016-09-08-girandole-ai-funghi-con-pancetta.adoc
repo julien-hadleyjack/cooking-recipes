@@ -1,12 +1,6 @@
----
-header:
-  teaser: thumbnail/girandole-ai-funghi-con-pancetta.jpg
-gallery:
-  - url: girandole-ai-funghi-con-pancetta.jpg
-    image_path: thumbnail/girandole-ai-funghi-con-pancetta.jpg
----
 = Girandole ai Funghi con Pancetta
 :page-layout: single
+:page-gallery: girandole-ai-funghi-con-pancetta.jpg
 :epub-picture: girandole-ai-funghi-con-pancetta.jpg
 :page-liquid:
 
@@ -54,7 +48,7 @@ Pancetta kann weggelassen werden
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

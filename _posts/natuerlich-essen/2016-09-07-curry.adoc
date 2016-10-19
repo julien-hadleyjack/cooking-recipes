@@ -1,16 +1,9 @@
----
-header:
-  teaser: thumbnail/curry.jpg
-gallery:
-  - url: curry.jpg
-    image_path: thumbnail/curry.jpg
-  - url: curry-2.jpg
-    image_path: thumbnail/curry-2.jpg
----
+
 = Grundrezept Curry
 :page-layout: single
+:page-gallery: ['curry.jpg', 'curry-2.jpg']
 :epub-picture: curry.jpg
-:page-liquid:
+:page-liquid: curry.jpg
 
 **Quelle**: Natürlich Essen, S. 177
 
@@ -69,7 +62,7 @@ Beispiel Gewürzmischung:
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

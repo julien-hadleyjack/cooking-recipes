@@ -1,13 +1,8 @@
----
-header:
-  teaser: thumbnail/brokkolicreme-mit-geroesteten-pinienkernen.jpg
-gallery:
-  - url: brokkolicreme-mit-geroesteten-pinienkernen.jpg
-    image_path: thumbnail/brokkolicreme-mit-geroesteten-pinienkernen.jpg
----
+
 = Brokkolicreme mit gerösteten Pinienkernen
 :page-layout: single
-:epub-picture: brokkolicreme-mit-geroesteten-pinienkernen.jpg
+:page-gallery: brokkolicreme-mit-geroesteten-pinienkernen.jpg
+:epub-picture:
 :page-liquid:
 
 **Quelle**: Basic Cooking 2, S. 64
@@ -62,7 +57,7 @@ schälen, Scheiben schneiden, in Sieb abbrausen .6+|
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}

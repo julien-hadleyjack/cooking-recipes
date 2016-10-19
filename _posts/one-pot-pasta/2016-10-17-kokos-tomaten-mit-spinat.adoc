@@ -1,14 +1,8 @@
----
-header:
-  teaser: thumbnail/kokos-tomaten-mit-spinat.jpg
-gallery:
-  - url: kokos-tomaten-mit-spinat.jpg
-    image_path: thumbnail/kokos-tomaten-mit-spinat.jpg
----
 = Kokos-Tomaten-Nudeln mit Spinat
 :page-layout: single
 :page-categories: ["One Pot Pasta"]
 :page-tags: ["pasta", "vegetarisch", "indisch"]
+:page-gallery: kokos-tomaten-mit-spinat.jpg
 :epub-picture: kokos-tomaten-mit-spinat.jpg
 :page-liquid:
 
@@ -66,7 +60,7 @@ gallery:
 == Bilder
 
 ifdef::ebook-format-epub3[]
-image::{site-baseurl}/images/{epub-picture}["{doctitle}"]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
 endif::ebook-format-epub3[]
 ifndef::ebook-format-epub3[]
 {% if page.gallery.size == 1 %}
