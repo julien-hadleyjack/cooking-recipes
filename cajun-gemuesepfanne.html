@@ -289,10 +289,14 @@ gemahlener Kreuzkümmel</p>
 <div class="sect1">
 <h2 id="bilder">Bilder</h2>
 <div class="sectionbody">
-<div class="imageblock image-popup">
-<div class="content">
-<a class="image" href="/cooking-recipes/images/cajun-gemuesepfanne.jpg"><img src="/cooking-recipes/images/cajun-gemuesepfanne.jpg" alt="Cajun-Gemüsepfanne"></a>
+<div class="paragraph">
+<p>{% if page.gallery.size == 1 %}<br>
+image::/cooking-recipes/images/{{ page.gallery[0].url }}["Cajun-Gemüsepfanne", role="image-popup", link="/cooking-recipes/images/{{ page.gallery[0].url }}"]<br>
+{% else %}</p>
 </div>
+{% include gallery  caption=page.title %}
+<div class="paragraph">
+<p>{% endif %}</p>
 </div>
 </div>
 </div>
