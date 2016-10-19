@@ -31,6 +31,7 @@ module Jekyll
 
         dir_name = File.dirname thumb_file
         unless File.directory?(dir_name)
+          "Creating directory #{dir_name}"
           FileUtils.mkdir_p(dir_name)
         end
 

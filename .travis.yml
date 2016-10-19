@@ -10,6 +10,9 @@ branches:
 
 script:
 - bundle exec jekyll build --config _config.yml,_test_config.yml
+- ls -lah ./_site
+- ls -lah ./_site/images
+- ls -lah ./_site/images/thumbnail
 - bundle exec htmlproofer ./_site --disable-external
 - bundle exec jekyll clean
 - bundle exec jekyll build
