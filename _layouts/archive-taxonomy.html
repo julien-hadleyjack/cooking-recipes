@@ -2,12 +2,19 @@
 layout: default
 author_profile: false
 ---
+{% assign source = site.data.sources[page.title] %}
 
 <div id="main" role="main">
   {% include sidebar.html %}
 
   <div class="archive">
+
+    {% if source %}
+    <h1 class="page__title">{{ source.title }}</h1>
+    {% else %}
     <h1 class="page__title">{{ page.title }}</h1>
+    {% endif %}
+
     {% include base_path %}
     {% for post in page.posts %}
       {% include archive-single.html type="grid" %}

@@ -1,6 +1,6 @@
 = Paprika-Pasta mit Feta und Walnüssen
 :page-layout: single
-:page-categories: ["One Pot Pasta"]
+:page-categories: ["one-pot-pasta"]
 :page-tags: ["pasta", "vegetarisch", "balkanisch"]
 :page-gallery: paprika-pasta-mit-feta-und-walnuessen.jpg
 :epub-picture: paprika-pasta-mit-feta-und-walnuessen.jpg

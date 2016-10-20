@@ -1,6 +1,6 @@
 = Spaghetti mit Zwiebeln und Rindfleisch
 :page-layout: single
-:page-categories: ["One Pot Pasta"]
+:page-categories: ["one-pot-pasta"]
 :page-tags: ["pasta", "fleisch", "asiatisch"]
 :page-gallery: spaghetti-mit-zwiebeln-und-rindfleisch.jpg
 :epub-picture: spaghetti-mit-zwiebeln-und-rindfleisch.jpg

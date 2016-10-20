@@ -1,6 +1,6 @@
 = Pasta alla Vesuviana
 :page-layout: single
-:page-categories: ["One Pot Pasta"]
+:page-categories: ["one-pot-pasta"]
 :page-tags: ["pasta", "vegetarisch", "italienisch"]
 :page-gallery: pasta-alla-vesuviana.jpg
 :epub-picture: pasta-alla-vesuviana.jpg

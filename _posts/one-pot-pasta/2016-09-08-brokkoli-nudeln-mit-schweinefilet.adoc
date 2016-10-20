@@ -1,4 +1,3 @@
-
 = Brokkoli-Nudeln mit Schweinefilet
 :page-layout: single
 :page-gallery: brokkoli-nudeln-mit-schweinefilet.jpg

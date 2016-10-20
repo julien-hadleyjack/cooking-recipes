@@ -29,16 +29,15 @@ gem "minima"
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
 group :jekyll_plugins do
-	gem 'jekyll-asciidoc'
-	gem 'jekyll-sitemap'
-	gem 'jekyll-archives'
-
+  gem 'jekyll-asciidoc'
+  gem 'jekyll-sitemap'
+  gem 'jekyll-archives'
   # needed for _plugins/create_thumbnails.rb
   gem 'ruby-filemagic'
   gem 'mini_magick'
 
   # gem 'jekyll-paginate'
-	# gem 'jekyll-feed'
+  # gem 'jekyll-feed'
 end
 
 gem 'html-proofer'

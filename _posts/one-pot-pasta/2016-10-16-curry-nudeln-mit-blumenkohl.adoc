@@ -1,6 +1,6 @@
 = Curry-Nudeln mit Blumenkohl
 :page-layout: single
-:page-categories: ["One Pot Pasta"]
+:page-categories: ["one-pot-pasta"]
 :page-tags: ["pasta", "vegetarisch", "indisch"]
 :page-gallery: curry-nudeln-mit-blumenkohl.jpg
 :epub-picture: curry-nudeln-mit-blumenkohl.jpg
