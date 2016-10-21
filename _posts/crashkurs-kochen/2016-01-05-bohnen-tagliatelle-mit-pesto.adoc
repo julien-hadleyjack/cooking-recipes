@@ -1,5 +1,7 @@
 = Bohnen-Tagliatelle mit Pesto
 :page-layout: single
+:page-categories: ["crashkurs-kochen"]
+:page-tags: ["pasta", "vegetarisch", "hauptgericht"]
 :page-gallery: ['bohnen-tagliatelle-mit-pesto.jpg', 'bohnen-tagliatelle-mit-pesto-2.jpg']
 :epub-picture: bohnen-tagliatelle-mit-pesto.jpg
 :page-liquid:

@@ -1,5 +1,7 @@
 = Paprika-Reispfanne
 :page-layout: single
+:page-categories: ["crashkurs-kochen"]
+:page-tags: ["reis", "schwein", "hauptgericht"]
 :page-gallery: paprika-reispfanne.jpg
 :epub-picture: paprika-reispfanne.jpg
 :page-liquid:

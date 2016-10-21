@@ -1,6 +1,8 @@
 = Cajun-Gemüsepfanne
 :page-layout: single
 :tags: pfanne, hauptgericht
+:page-categories: ["20-minuten-sind-genug"]
+:page-tags: ["reis", "vegetarisch", "pfanne", "hauptgericht"]
 :page-gallery: cajun-gemuesepfanne.jpg
 :epub-picture: cajun-gemuesepfanne.jpg
 

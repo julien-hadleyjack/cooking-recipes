@@ -1,5 +1,7 @@
 = Griechischer Salat mit Tomatensauce
 :page-layout: single
+:page-categories: ["crashkurs-kochen"]
+:page-tags: ["salat", "vegetarisch", "beilage"]
 :page-gallery: griechicher-salat-mit-tomatensauce.jpg
 :epub-picture: griechicher-salat-mit-tomatensauce.jpg
 :page-liquid:

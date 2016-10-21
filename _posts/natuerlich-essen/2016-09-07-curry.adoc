@@ -1,9 +1,10 @@
-
 = Grundrezept Curry
 :page-layout: single
+:page-categories: ["natuerlich-essen"]
+:page-tags: ["vegetarisch", "hauptgericht"]
 :page-gallery: ['curry.jpg', 'curry-2.jpg']
 :epub-picture: curry.jpg
-:page-liquid: curry.jpg
+:page-liquid:
 
 **Quelle**: Natürlich Essen, S. 177
 

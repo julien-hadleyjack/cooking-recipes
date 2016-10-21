@@ -1,6 +1,7 @@
 = Marseiller Bohnentopf
 :page-layout: single
-:tags: pfanne, hauptgericht
+:page-categories: ["20-minuten-sind-genug"]
+:page-tags: ["eintopf", "vegetarisch", "hauptgericht"]
 :page-gallery: marseiller-bohnentopf.jpg
 :epub-picture: marseiller-bohnentopf.jpg
 :page-liquid:

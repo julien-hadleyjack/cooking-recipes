@@ -1,5 +1,7 @@
 = Ungarische Reispfanne
 :page-layout: single
+:page-categories: ["20-minuten-sind-genug"]
+:page-tags: ["reis", "schwein", "pfanne", "hauptgericht", "ungarisch"]
 :page-gallery: ungarische-reispfanne.jpg
 :epub-picture: ungarische-reispfanne.jpg
 :page-liquid:

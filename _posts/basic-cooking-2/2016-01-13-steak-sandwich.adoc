@@ -1,5 +1,7 @@
 = Steak-Sandwich
 :page-layout: single
+:page-categories: ["basic-cooking-2"]
+:page-tags: ["rind", "sandwich", "hauptgericht"]
 :page-gallery: steak-sandwich.jpg
 :epub-picture: steak-sandwich.jpg
 :page-liquid:

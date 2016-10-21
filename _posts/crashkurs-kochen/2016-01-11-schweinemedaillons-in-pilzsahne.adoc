@@ -1,5 +1,7 @@
 = Schweinemedaillons in Pilzsahne
 :page-layout: single
+:page-categories: ["crashkurs-kochen"]
+:page-tags: ["schwein", "hauptgericht"]
 :page-gallery: schweinemedaillons-in-pilzsahne.jpg
 :epub-picture: schweinemedaillons-in-pilzsahne.jpg
 :page-liquid:

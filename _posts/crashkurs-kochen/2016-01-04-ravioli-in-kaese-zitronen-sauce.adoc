@@ -1,5 +1,7 @@
 = Ravioli in Käse-Zitronen-Sauce
 :page-layout: single
+:page-categories: ["crashkurs-kochen"]
+:page-tags: ["pasta", "vegetarisch", "hauptgericht"]
 
 **Quelle**: Crashkurs Kochen, S. 32
 

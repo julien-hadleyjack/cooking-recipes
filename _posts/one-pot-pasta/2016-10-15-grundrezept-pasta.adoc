@@ -1,5 +1,7 @@
 = Grundrezept: Pasta
 :page-layout: single
+:page-categories: ["one-pot-pasta"]
+:page-tags: ["pasta", hauptgericht"]
 :page-gallery: grundrezept-pasta.jpg
 :epub-picture: grundrezept-pasta.jpg
 :page-liquid:

@@ -1,5 +1,7 @@
 = Roh marinierter Fenchelsalat mit Salami
 :page-layout: single
+:page-categories: ["lunch-im-glas"]
+:page-tags: ["salat"]
 :page-gallery: roh-marinierter-fenchelsalat-mit-salami.jpg
 :epub-picture: roh-marinierter-fenchelsalat-mit-salami.jpg
 :page-liquid:

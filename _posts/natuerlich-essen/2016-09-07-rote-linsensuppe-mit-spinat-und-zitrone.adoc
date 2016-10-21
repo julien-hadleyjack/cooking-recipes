@@ -1,5 +1,7 @@
 = Rote Linsensuppe mit Spinat und Zitrone
 :page-layout: single
+:page-categories: ["natuerlich-essen"]
+:page-tags: ["suppe", "vegetarisch", "hauptgericht"]
 
 **Quelle**: Natürlich Essen, S. 173
 

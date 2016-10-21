@@ -1,5 +1,7 @@
 = Würzige Möhrensuppe mit Kokosmilch
 :page-layout: single
+:page-categories: ["natuerlich-essen"]
+:page-tags: ["suppe", "vegetarisch", "hauptgericht"]
 
 **Quelle**: Natürlich Essen, S. 172
 

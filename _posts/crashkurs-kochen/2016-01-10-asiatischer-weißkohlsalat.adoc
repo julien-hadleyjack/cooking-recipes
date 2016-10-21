@@ -1,5 +1,7 @@
 = Asiatischer Weißkohlsalat
 :page-layout: single
+:page-categories: ["crashkurs-kochen"]
+:page-tags: ["salat", "vegetarisch", "beilage", "asiatisch"]
 :page-gallery: asiatischer-weißkohlsalat.jpg
 :epub-picture: asiatischer-weißkohlsalat.jpg
 :page-liquid:

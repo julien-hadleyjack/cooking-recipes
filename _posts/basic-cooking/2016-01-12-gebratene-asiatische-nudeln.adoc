@@ -1,5 +1,7 @@
 = Gebratene asiatische Nudeln
 :page-layout: single
+:page-categories: ["basic-cooking"]
+:page-tags: ["pasta", "huhn", "pfanne", "hauptgericht"]
 :page-gallery: gebratene-asiatische-nudeln.jpg
 :epub-picture: gebratene-asiatische-nudeln.jpg
 :page-liquid:

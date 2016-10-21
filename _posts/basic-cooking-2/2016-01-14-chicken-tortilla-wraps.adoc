@@ -1,5 +1,7 @@
 = Chicken-Tortilla-Wraps
 :page-layout: single
+:page-categories: ["basic-cooking-2"]
+:page-tags: ["huhn", "wrap", "hauptgericht"]
 
 **Quelle**: Basic Cooking 2, S. 49
 

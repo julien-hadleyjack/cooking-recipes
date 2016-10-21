@@ -1,5 +1,7 @@
 = Scharfer Süßkartfoffelsalat mit Bohnen
 :page-layout: single
+:page-categories: ["lunch-im-glas"]
+:page-tags: ["salat", "vegetarisch"]
 :page-gallery: scharfer-suesskartoffelsalat-mit-bohnen.jpg
 :epub-picture: scharfer-suesskartoffelsalat-mit-bohnen.jpg
 :page-liquid:

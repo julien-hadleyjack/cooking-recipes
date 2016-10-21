@@ -1,5 +1,7 @@
 = Gebratene Nudeln mit Ananas und Pute
 :page-layout: single
+:page-categories: ["crashkurs-kochen"]
+:page-tags: ["pasta", "huhn", "hauptgericht", "asiatisch"]
 
 **Quelle**: Crashkurs Kochen, S. 43
 

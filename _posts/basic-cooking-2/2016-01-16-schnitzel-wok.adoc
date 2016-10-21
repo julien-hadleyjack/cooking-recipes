@@ -1,5 +1,7 @@
 = Schnitzel-Wok
 :page-layout: single
+:page-categories: ["basic-cooking-2"]
+:page-tags: ["schwein", "hauptgericht"]
 
 **Quelle**: Basic Cooking 2, S. 118
 

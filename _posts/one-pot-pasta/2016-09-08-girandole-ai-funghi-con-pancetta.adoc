@@ -1,5 +1,7 @@
 = Girandole ai Funghi con Pancetta
 :page-layout: single
+:page-categories: ["one-pot-pasta"]
+:page-tags: ["pasta", "hauptgericht"]
 :page-gallery: girandole-ai-funghi-con-pancetta.jpg
 :epub-picture: girandole-ai-funghi-con-pancetta.jpg
 :page-liquid:

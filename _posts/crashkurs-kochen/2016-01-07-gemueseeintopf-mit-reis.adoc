@@ -1,5 +1,7 @@
 = Gemüseeintopf mit Reis
 :page-layout: single
+:page-categories: ["crashkurs-kochen"]
+:page-tags: ["eintopf", "reis", vegetarisch", "hauptgericht"]
 :page-gallery: gemueseeintopf-mit-reis.jpg
 :epub-picture: gemueseeintopf-mit-reis.jpg
 :page-liquid:
