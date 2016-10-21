@@ -87,6 +87,25 @@ author:
   youtube          :
 
 
+comments:
+  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master" # "master", "gh-pages"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}"
+  requiredFields         : ['name', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+
 defaults:
   # _posts
   - scope:
@@ -96,7 +115,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      comments: false
+      comments: true
       share: false
       related: true
 
