@@ -1,0 +1,82 @@
+= Grüne Gemüse-Pasta mit Zitronensauce
+:page-layout: single
+:page-categories: ["one-pot-pasta"]
+:page-tags: ["pasta", "vegetarisch"]
+:page-gallery: gruene-gemuese-pasta-mit-zitronensauce.jpg
+:epub-picture: gruene-gemuese-pasta-mit-zitronensauce.jpg
+:page-liquid:
+
+**Quelle**: One Pot Pasta, S. 42
+
+**Zubereitungszeit**: 50 min
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+150 g grüner Spargel
+1 Bio-Zitrone
+80 g Zuckerschoten
+1 Bund Frühlingszwiebeln
+2 Stiele Petersilie
+1 Handvoll Kerbel (ersatzweise Petersilie)
+
+**Gewürz**
+
+
+**Nudeln/Saucen**
+200 g grüne Tagliatelle (Kochzeit: 6 min.)
+
+**Milch**
+100 ml Sahne
+
+**sonstiges**
+Parmesan
+
+<<<
+
+== Rezept
+
+[cols=",,,,",options="header",]
+|=======================================================================
+| | |5 Minuten |5 Minuten |
+
+|80 g Zuckerschoten |waschen, schräg halbieren .7+|kochen (mit Petersilienstiele, ohne Spargelspitzen), Zitronenschale abreiben .7+|Spargelspitzen hinzufügen, etwas Zitronensaft hinzufügen .10+|Petersilienstiele entfernen, Rest hinzufügen
+
+|150 g grüner Spargel |waschen, unterer Drittel schälen, Ende abschneiden, Stangen in 3-4 cm lange Stücke schneiden
+
+|1 Bund Frühlingszwiebeln |Ringe schneiden
+
+|2 Stiele Petersilie |Blätter und Stiele trennen
+
+|100 ml Sahne .6+|
+
+|500 ml kaltes Wasser
+
+|1 Zitrone
+
+|1 Handvoll Kerbel .3+| .2+|hacken
+
+|Petersilienblätter
+
+|Salz, Pfeffer |
+|=======================================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

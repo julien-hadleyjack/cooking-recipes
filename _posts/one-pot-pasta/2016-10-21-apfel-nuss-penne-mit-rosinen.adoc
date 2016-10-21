@@ -1,0 +1,80 @@
+= Apfel-Nuss-Penne mit Rosinen
+:page-layout: single
+:page-categories: ["one-pot-pasta"]
+:page-tags: ["pasta", "vegetarisch"]
+:page-gallery: apfel-nuss-penne-mit-rosinen.jpg
+:epub-picture: apfel-nuss-penne-mit-rosinen.jpg
+:page-liquid:
+
+**Quelle**: One Pot Pasta, S. 49
+
+**Zubereitungszeit**: 20 min
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+2 rotschalige festfleischige Äpfel (à 180 g, z.B. Jonagored)
+
+**Nudeln/Saucen**
+200 g Mini-Penne (Kochzeit: 5 min.)
+
+**Milch**
+400 ml Milch
+2 EL Sahne
+
+**sonstiges**
+2 EL gehobelte Haselnüsse
+40 g Rosinen
+2-3 Prisen Zimtpuler
+1 Pck. Vanillezucker
+
+<<<
+
+== Rezept
+
+[cols=",,,,",options="header",]
+|=======================================================================
+| | |5 Minuten |5 Minuten |
+
+|2 EL gehobelte Haselnüsse |leicht braun anrösten |herausnehmen | .11+|hinzufügen
+
+|200 g Mini-Penne .10+| .8+|kochen .9+|hinzufügen
+
+|40 g Rosinen
+
+|400 ml Milch
+
+|300 ml kaltes Wasser
+
+|Salz
+
+|2-3 Prisen Zimt
+
+|1 Pck. Vanillezucker
+
+|2 EL Zucker
+
+|2 Äpfel |waschen, vierteln, entkernen, in 1-2 cm große Würfel schneiden
+
+|2 EL Sahne | |
+|=======================================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

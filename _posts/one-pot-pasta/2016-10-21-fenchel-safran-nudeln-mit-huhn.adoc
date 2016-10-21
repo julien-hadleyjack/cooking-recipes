@@ -1,0 +1,88 @@
+= Fenchel-Safran-Nudeln mit Huhn
+:page-layout: single
+:page-categories: ["one-pot-pasta"]
+:page-tags: ["pasta", "huhn"]
+:page-gallery: fenchel-safran-nudeln-mit-huhn.jpg
+:epub-picture: fenchel-safran-nudeln-mit-huhn.jpg
+:page-liquid:
+
+**Quelle**: One Pot Pasta, S. 42
+
+**Zubereitungszeit**: 50 min
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+1 rote Chilischote
+2-3 Stiele Petersilie
+1 große rote Zwiebel
+1 Knoblauchzehe
+1 Fenchelknolle (ca. 250 g)
+
+**Gewürz**
+1 Prise Safranfäden (1/3 Döschen à 0,1g)
+1 TL Fenchelsamen
+
+**Fleisch**
+1 Hähnchenbrustfilet (ca. 180 g)
+
+**Nudeln/Saucen**
+200 g Bavette (Kochzeit: 8 min.)
+
+**sonstiges**
+125 ml Weißwein
+
+<<<
+
+== Rezept
+
+[cols=",,,,",options="header",]
+|=======================================================================
+| | |5 Minuten |12 Minuten |
+
+|1 Hähnchenbrustfilet |waschen, Würfel schneiden .2+|in 1 EL Öl erhitzen, Hälfte der Fenchelsamen gegen Ende hinzufügen .2+|entfernen .13+|hinzufügen, Petersilienstiele entfernen
+
+|1 TL Fenchelsamen |in Mörser grob zerdrücken
+
+|1 Prise Safran |in 1 EL heißem Wasser einweichen, beiseite stellen .11+| .9+|kochen (mit Safranwasser, restliche Hälfte Fenchelsamen)
+
+|1 Fenchelknolle |Grün beiseitelegen, Knolle längs halbieren, Strunk entfernen, Rest in kleine Würfel schneiden
+
+|1 rote Zwiebel .2+|dünne Scheiben schneiden
+
+|1 Knoblauchzehe
+
+|1 Chilischote |entkernen, kleine Würfel schneiden
+
+|2-3 Stiele Petersilie |Blätter und Stiele trennen
+
+|200 g Bavette .5+|
+
+|125 ml Weißwein
+
+|½ TL Salz
+
+|Petersilienblätter .2+|hacken
+
+|Fenchelgrün
+|=======================================================================
+
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]
