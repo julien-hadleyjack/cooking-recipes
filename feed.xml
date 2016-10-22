@@ -5,9 +5,304 @@
     <description>A collection of recipes. Inspired by the &quot;Cooking For Engineers&quot; website.</description>
     <link>/cooking-recipes/</link>
     <atom:link href="/cooking-recipes/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Oct 2016 16:07:23 +0200</pubDate>
-    <lastBuildDate>Fri, 21 Oct 2016 16:07:23 +0200</lastBuildDate>
+    <pubDate>Sat, 22 Oct 2016 18:01:36 +0200</pubDate>
+    <lastBuildDate>Sat, 22 Oct 2016 18:01:36 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Möhrensuppe mit Orange, Ingwer und Koriander</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: Suppen, S. 124&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 35 min&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
+1 Stück frischer Ingwer (etwa 4 cm)&lt;br&gt;
+2 Bio-Orangen&lt;br&gt;
+1 kleines Bund Schnittlauch&lt;br&gt;
+1 Zwiebel&lt;br&gt;
+500 g Karotten&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gewürze&lt;/strong&gt;&lt;br&gt;
+gemahlener Korander&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Milch&lt;/strong&gt;&lt;br&gt;
+2 EL Butter&lt;br&gt;
+50 g Crème fraîche oder Sahne&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+1 TL Chiliflocken&lt;br&gt;
+800 ml Gemüsebrühe&lt;br&gt;
+1 TL Honig&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;20 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Butter&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;erhitzen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;7&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;bei schwacher Hitze kochen (ohne Schale), dann pürieren&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;12&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen (auch Orangenschale)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;500 g Karotten&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;schälen, klein würfeln&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Stück Ingwer (4 cm)&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;fein hacken&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Zwiebel&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 TL Chiliflocken&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;8&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Orange&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Orange: heiß waschen, abtrocknen, Schale fein abreiben&lt;br&gt;
+Beide: auspressen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;800 ml Gemüsebrühe&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;6&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 kleines Bund Schnittlauch&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;50 g Crème fraîche&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;4&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Salz, Pfeffer&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 große Prise Koriander&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 TL Honig&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/moehrensuppe-mit-orangen-ingwer-und-koriander.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/moehrensuppe-mit-orangen-ingwer-und-koriander.jpg&quot; alt=&quot;Möhrensuppe mit Orange, Ingwer und Koriander&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Fri, 21 Oct 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/suppen/moehrensuppe-mit-orangen-ingwer-und-koriander.html</link>
+        <guid isPermaLink="true">/cooking-recipes/suppen/moehrensuppe-mit-orangen-ingwer-und-koriander.html</guid>
+        
+        <category>suppe</category>
+        
+        <category>vegetarisch</category>
+        
+        <category>hauptgericht</category>
+        
+        <category>winter</category>
+        
+        
+        <category>suppen</category>
+        
+      </item>
+    
+      <item>
+        <title>Spaghetti mit Erbsen und Minz-Gremolata</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 42&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 50 min&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
+1 Zitrone&lt;br&gt;
+1 Handvoll Blatt-Petersilie&lt;br&gt;
+2 Stiele Minze&lt;br&gt;
+1 Knoblauchzehe&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Nudeln/Saucen&lt;/strong&gt;&lt;br&gt;
+200 g glutenfreie Spaghetti (Kochzeit: 10 min.)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Tiefkühl&lt;/strong&gt;&lt;br&gt;
+100 g TK-Prinzessbohnen&lt;br&gt;
+150 g TK-Erbsen&lt;br&gt;
+1 Pck. TK Zwiebeln (gemischt; 70 g)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+25 g Pinienkerne&lt;br&gt;
+650 ml Gemüsebrühe&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;Auch andere Kräutersorten (z.B. Koriandergrün oder Zitronenmelisse) ist möglich. Die Basis sollte aber immer Petersilie sein.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot; colspan=&quot;2&quot;&gt;10-12 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;25 g Pinienkerne&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;anrösten&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; colspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;beiseitestellen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;13&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;hinzufügen, Stiele&lt;br&gt;
+entfernen, evtl. etwas Zitronensaft&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Handvoll Petersilie&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Blätter und Stiele trennen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; colspan=&quot;2&quot; rowspan=&quot;9&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;kochen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 Stiele Minze&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Zitrone&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Schale: abreiben und beiseitestellen&lt;br&gt;
+2 Scheiben abschneiden&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;100 g TK-Bohnen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;9&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;150 g TK-Erbsen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Pck. TK Zwiebeln (70 g)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;650 ml Gemüsebrühe&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;½ TL Salz&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Olivenöl&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Knoblauchzähe&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;fein hacken&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;vermischen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Petersilie-, Minzeblätter&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Zitronenschale&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;imageblock image-popup&quot;&gt;
+&lt;div class=&quot;content&quot;&gt;
+&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/spaghetti-mit-erbsen-und-minz-gremolata.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/spaghetti-mit-erbsen-und-minz-gremolata.jpg&quot; alt=&quot;Spaghetti mit Erbsen und Minz-Gremolata&quot;&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Fri, 21 Oct 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/one-pot-pasta/spaghetti-mit-erbsen-und-minz-gremolata.html</link>
+        <guid isPermaLink="true">/cooking-recipes/one-pot-pasta/spaghetti-mit-erbsen-und-minz-gremolata.html</guid>
+        
+        <category>pasta</category>
+        
+        <category>vegetarisch</category>
+        
+        <category>hauptgericht</category>
+        
+        
+        <category>one-pot-pasta</category>
+        
+      </item>
     
       <item>
         <title>Grüne Gemüse-Pasta mit Zitronensauce</title>
@@ -1102,173 +1397,6 @@ lassen&lt;/p&gt;&lt;/td&gt;
         <category>pasta</category>
         
         <category>hauptgericht&quot;</category>
-        
-        
-        <category>one-pot-pasta</category>
-        
-      </item>
-    
-      <item>
-        <title>Spaghetti mit Zwiebeln und Rindfleisch</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 30&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 35 min&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
-10 g Ingwer&lt;br&gt;
-4 Frühlingszwiebeln&lt;br&gt;
-1 Handvoll Koriander&lt;br&gt;
-1 Knoblauchzehe&lt;br&gt;
-200 g rote Zwiebeln&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Fleisch&lt;/strong&gt;&lt;br&gt;
-200 g Rinder-Minutensteak&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Nudeln/Saucen&lt;/strong&gt;&lt;br&gt;
-200 g Spaghetti (Kochzeit: 9 Min.)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-5 EL Teriyakisauce&lt;br&gt;
-1 EL crunchy Erdnussbutter&lt;br&gt;
-3 EL Limettensaft&lt;br&gt;
-700 ml Fleischbrühe&lt;br&gt;
-2 EL Röstzwiebeln&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Alternativ: 1 Hähnchenbrustfilet (von Anfang mitkochen) oder ca. 150 g rohe, geschälte Garnelen (letzten 3 Minuten) anstelle von Rindfleisch&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/spaghetti-mit-zwiebeln-und-rindfleisch.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/spaghetti-mit-zwiebeln-und-rindfleisch.jpg&quot; alt=&quot;Spaghetti mit Zwiebeln und Rindfleisch&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
-        <link>/cooking-recipes/one-pot-pasta/spaghetti-mit-zwiebeln-und-rindfleisch.html</link>
-        <guid isPermaLink="true">/cooking-recipes/one-pot-pasta/spaghetti-mit-zwiebeln-und-rindfleisch.html</guid>
-        
-        <category>pasta</category>
-        
-        <category>fleisch</category>
-        
-        <category>asiatisch</category>
-        
-        
-        <category>one-pot-pasta</category>
-        
-      </item>
-    
-      <item>
-        <title>Girandole ai Funghi con Pancetta</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 22&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 35 min&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gemüse/Obst/frische Gewürze&lt;/strong&gt;&lt;br&gt;
-5 g getrocknete Steinpilze&lt;br&gt;
-250 g Champignons&lt;br&gt;
-1 Zweig Rosmarin&lt;br&gt;
-4 Stiele Petersilie&lt;br&gt;
-1 Schalotte&lt;br&gt;
-1 Knoblauchzehe&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Fleisch&lt;/strong&gt;&lt;br&gt;
-60 g Pancetta (2 mm dicke Scheiben, ersatzweise durchwachsener Speck)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Nudeln/Saucen&lt;/strong&gt;&lt;br&gt;
-200 g Girandole (Kochzeit: 6 min)&lt;br&gt;
-200 ml passierte Tomaten&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-Parmesan&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Pancetta kann weggelassen werden&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;50 ml passierte Toamten könnne durch Sahne ersetzt werden&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/girandole-ai-funghi-con-pancetta.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/girandole-ai-funghi-con-pancetta.jpg&quot; alt=&quot;Girandole ai Funghi con Pancetta&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Thu, 08 Sep 2016 00:00:00 +0200</pubDate>
-        <link>/cooking-recipes/one-pot-pasta/girandole-ai-funghi-con-pancetta.html</link>
-        <guid isPermaLink="true">/cooking-recipes/one-pot-pasta/girandole-ai-funghi-con-pancetta.html</guid>
-        
-        <category>pasta</category>
-        
-        <category>hauptgericht</category>
         
         
         <category>one-pot-pasta</category>
