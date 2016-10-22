@@ -20,7 +20,7 @@
 5 g getrocknete Steinpilze
 250 g Champignons
 1 Zweig Rosmarin
-4 Stiele Petersilie
+4 Stiele Blatt-Petersilie
 1 Schalotte
 1 Knoblauchzehe
 
@@ -45,7 +45,38 @@ Pancetta kann weggelassen werden
 
 == Rezept
 
+[cols=",,,,",options="header",]
+|=======================================================================
+| | |3 Minuten |10-12 Minuten |
 
+|60 g Pancetta |Streifen scheiden |knusprig braten |entnehmen .14+|hinzufügen, Petersilien- und Rosmarinstiele entfernen
+
+|5 g getrocknete Steinpilze |fein hacken, in lauwarmen Wasser einweichen .13+| .10+|kochen
+
+|400 ml lauwarmes Wasser |
+
+|250 g Champignons |putzen, dicke Schreiben schneiden
+
+|1 Schalotte .2+|schneiden
+
+|1 Knoblauchzehe
+
+|4 Stiele Petersilie |Blätter und Stiele trennen
+
+|1 Zweig Rosmarin .7+|
+
+|200 g Girandole
+
+|200 ml passierte Tomaten
+
+|½ TL Salz
+
+|Petersilienblätter .3+|
+
+|Pfeffer
+
+|Parmesan
+|=======================================================================
 
 == Bilder
 

@@ -1,0 +1,86 @@
+= Möhrensuppe mit Orange, Ingwer und Koriander
+:page-layout: single
+:page-categories: ["suppen"]
+:page-tags: ["suppe", "vegetarisch", "hauptgericht", "winter"]
+:page-gallery: moehrensuppe-mit-orangen-ingwer-und-koriander.jpg
+:epub-picture: moehrensuppe-mit-orangen-ingwer-und-koriander.jpg
+:page-liquid:
+
+**Quelle**: Suppen, S. 124
+
+**Zubereitungszeit**: 35 min
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+1 Stück frischer Ingwer (etwa 4 cm)
+2 Bio-Orangen
+1 kleines Bund Schnittlauch
+1 Zwiebel
+500 g Karotten
+
+**Gewürze**
+gemahlener Korander
+
+**Milch**
+2 EL Butter
+50 g Crème fraîche oder Sahne
+
+**sonstiges**
+1 TL Chiliflocken
+800 ml Gemüsebrühe
+1 TL Honig
+
+
+<<<
+
+== Rezept
+
+[cols=",,,,",options="header",]
+|=======================================================================
+| | | |20 Minuten |
+
+|2 EL Butter |erhitzen .5+|hinzufügen .7+|bei schwacher Hitze kochen (ohne Schale), dann pürieren .12+|hinzufügen (auch Orangenschale)
+
+|500 g Karotten |schälen, klein würfeln
+
+|1 Stück Ingwer (4 cm) .2+|fein hacken
+
+|1 Zwiebel
+
+|1 TL Chiliflocken .8+|
+
+|2 Orange | 1 Orange: heiß waschen, abtrocknen, Schale fein abreiben
+Beide: auspressen
+
+|800 ml Gemüsebrühe .6+|
+
+|1 kleines Bund Schnittlauch |schneiden
+
+|50 g Crème fraîche .4+|
+
+|Salz, Pfeffer
+
+|1 große Prise Koriander
+
+|1 TL Honig
+|=======================================================================
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]

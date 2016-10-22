@@ -6,7 +6,6 @@
 :epub-picture: bohnen-tagliatelle-mit-pesto.jpg
 :page-liquid:
 
-
 **Quelle**: Crashkurs Kochen, S. 33
 
 **Zubereitungszeit**: 40 min

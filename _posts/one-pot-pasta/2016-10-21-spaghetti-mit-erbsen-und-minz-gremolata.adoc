@@ -1,0 +1,91 @@
+= Spaghetti mit Erbsen und Minz-Gremolata
+:page-layout: single
+:page-categories: ["one-pot-pasta"]
+:page-tags: ["pasta", "vegetarisch", "hauptgericht"]
+:page-gallery: spaghetti-mit-erbsen-und-minz-gremolata.jpg
+:epub-picture: spaghetti-mit-erbsen-und-minz-gremolata.jpg
+:page-liquid:
+
+**Quelle**: One Pot Pasta, S. 42
+
+**Zubereitungszeit**: 50 min
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst/frische Gewürze**
+1 Zitrone
+1 Handvoll Blatt-Petersilie
+2 Stiele Minze
+1 Knoblauchzehe
+
+**Nudeln/Saucen**
+200 g glutenfreie Spaghetti (Kochzeit: 10 min.)
+
+**Tiefkühl**
+100 g TK-Prinzessbohnen
+150 g TK-Erbsen
+1 Pck. TK Zwiebeln (gemischt; 70 g)
+
+**sonstiges**
+25 g Pinienkerne
+650 ml Gemüsebrühe
+
+== Kommentar
+
+Auch andere Kräutersorten (z.B. Koriandergrün oder Zitronenmelisse) ist möglich. Die Basis sollte aber immer Petersilie sein.
+
+<<<
+
+== Rezept
+
+[cols=",,,,",options="header",]
+|=======================================================================
+| | 2+|10-12 Minuten |
+
+|25 g Pinienkerne |anrösten 2+|beiseitestellen .13+|hinzufügen, Stiele
+entfernen, evtl. etwas Zitronensaft
+
+|1 Handvoll Petersilie .2+|Blätter und Stiele trennen 2.9+|kochen
+
+|2 Stiele Minze
+
+|1 Zitrone |Schale: abreiben und beiseitestellen
+2 Scheiben abschneiden
+
+|100 g TK-Bohnen .9+|
+
+|150 g TK-Erbsen
+
+|1 Pck. TK Zwiebeln (70 g)
+
+|650 ml Gemüsebrühe
+
+|½ TL Salz
+
+|1 EL Olivenöl
+
+|1 Knoblauchzähe .2+|fein hacken .3+|vermischen
+
+|Petersilie-, Minzeblätter
+
+|Zitronenschale |
+|=======================================================================
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+image::{site-baseurl}/images/{{ page.gallery[0].url }}["{doctitle}", role="image-popup", link="{site-baseurl}/images/{{ page.gallery[0].url }}"]
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]
