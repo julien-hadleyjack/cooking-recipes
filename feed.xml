@@ -5,9 +5,188 @@
     <description>A collection of recipes. Inspired by the &quot;Cooking For Engineers&quot; website.</description>
     <link>/cooking-recipes/</link>
     <atom:link href="/cooking-recipes/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 22 Oct 2016 18:01:36 +0200</pubDate>
-    <lastBuildDate>Sat, 22 Oct 2016 18:01:36 +0200</lastBuildDate>
+    <pubDate>Mon, 24 Oct 2016 09:18:42 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Oct 2016 09:18:42 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Nudeln mit Linsen</title>
+        <description>&lt;div id=&quot;preamble&quot;&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: 20 Minuten sind genug&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Gemüse/Obst&lt;/strong&gt;&lt;br&gt;
+3 Frühlingszwiebeln&lt;br&gt;
+1 Lorbeerblatt&lt;br&gt;
+1 Knoblauchzehe&lt;br&gt;
+60 g Stangensellerie&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Dosen&lt;/strong&gt;&lt;br&gt;
+1&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Reis/Bohnen/Linsen&lt;/strong&gt;&lt;br&gt;
+120 g rote Linsen&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Nudeln/Saucen&lt;/strong&gt;&lt;br&gt;
+250 g Pasta (z.B. Orecchiette)&lt;br&gt;
+1 kleine Dose TOmagen (400 g)&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Milch&lt;/strong&gt;&lt;br&gt;
+2 EL gehobelter Parmesan&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;paragraph&quot;&gt;
+&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
+3 getrocknete eingelegte Tomaten (Glas)&lt;br&gt;
+150 ml trockener Rotwein (ersatzweise Brühe)&lt;br&gt;
+150 ml Gemüsebrühe&lt;br&gt;
+1-2 EL Aceto balsamico&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
+&lt;colgroup&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;col style=&quot;width: 20%;&quot;&gt;
+&lt;/colgroup&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;3-4 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;8-10 Minuten&lt;/th&gt;
+&lt;th class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Salzwasser&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;zum Kochen bringen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;kochen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;16&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;anrichten&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;250 g Pasta&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Olivenöl&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;dünsten&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;11&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;auf mittlerer Hitze kochen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;3 Frühlingszwiebeln&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;feine Ringe schneiden, 2 EL Grün beiseitelegen&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Knoblauchzehe&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;scheiden&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;60 g Stangensellerie&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;3 eingelegte Tomaten&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;abtropfen, feine Streifen schneiden&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;120 g rote Linsen&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;9&quot;&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;9&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;150 ml Rotwein&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Dose Tomaten (400 g)&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 Lorbeerblatt&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;1 EL Aceto balsamico&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Salz, Pfeffer&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Cayennepfeffer&lt;/p&gt;&lt;/td&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL gehobelter Parmesan&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;2 EL Frühlingszwiebelgrün&lt;/p&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;sect1&quot;&gt;
+&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
+&lt;div class=&quot;sectionbody&quot;&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/nudeln-mit-linsen.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/nudeln-mit-linsen.jpg&quot;
+
+          alt=&quot;Nudeln mit Linsen (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        <pubDate>Mon, 24 Oct 2016 00:00:00 +0200</pubDate>
+        <link>/cooking-recipes/20-minuten-sind-genug/nudeln-mit-linsen.html</link>
+        <guid isPermaLink="true">/cooking-recipes/20-minuten-sind-genug/nudeln-mit-linsen.html</guid>
+        
+        <category>pasta</category>
+        
+        <category>vegetarisch</category>
+        
+        <category>hauptgericht</category>
+        
+        
+        <category>20-minuten-sind-genug</category>
+        
+      </item>
     
       <item>
         <title>Möhrensuppe mit Orange, Ingwer und Koriander</title>
@@ -129,11 +308,25 @@ Beide: auspressen&lt;/p&gt;&lt;/td&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/moehrensuppe-mit-orangen-ingwer-und-koriander.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/moehrensuppe-mit-orangen-ingwer-und-koriander.jpg&quot; alt=&quot;Möhrensuppe mit Orange, Ingwer und Koriander&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/moehrensuppe-mit-orangen-ingwer-und-koriander.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/moehrensuppe-mit-orangen-ingwer-und-koriander.jpg&quot;
+
+          alt=&quot;Möhrensuppe mit Orange, Ingwer und Koriander (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Fri, 21 Oct 2016 00:00:00 +0200</pubDate>
@@ -282,11 +475,25 @@ entfernen, evtl. etwas Zitronensaft&lt;/p&gt;&lt;/td&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/spaghetti-mit-erbsen-und-minz-gremolata.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/spaghetti-mit-erbsen-und-minz-gremolata.jpg&quot; alt=&quot;Spaghetti mit Erbsen und Minz-Gremolata&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/spaghetti-mit-erbsen-und-minz-gremolata.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/spaghetti-mit-erbsen-und-minz-gremolata.jpg&quot;
+
+          alt=&quot;Spaghetti mit Erbsen und Minz-Gremolata (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Fri, 21 Oct 2016 00:00:00 +0200</pubDate>
@@ -418,11 +625,25 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/gruene-gemuese-pasta-mit-zitronensauce.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/gruene-gemuese-pasta-mit-zitronensauce.jpg&quot; alt=&quot;Grüne Gemüse-Pasta mit Zitronensauce&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/gruene-gemuese-pasta-mit-zitronensauce.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/gruene-gemuese-pasta-mit-zitronensauce.jpg&quot;
+
+          alt=&quot;Grüne Gemüse-Pasta mit Zitronensauce (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Fri, 21 Oct 2016 00:00:00 +0200</pubDate>
@@ -565,11 +786,25 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/fenchel-safran-nudeln-mit-huhn.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/fenchel-safran-nudeln-mit-huhn.jpg&quot; alt=&quot;Fenchel-Safran-Nudeln mit Huhn&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/fenchel-safran-nudeln-mit-huhn.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/fenchel-safran-nudeln-mit-huhn.jpg&quot;
+
+          alt=&quot;Fenchel-Safran-Nudeln mit Huhn (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Fri, 21 Oct 2016 00:00:00 +0200</pubDate>
@@ -697,11 +932,25 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/apfel-nuss-penne-mit-rosinen.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/apfel-nuss-penne-mit-rosinen.jpg&quot; alt=&quot;Apfel-Nuss-Penne mit Rosinen&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/apfel-nuss-penne-mit-rosinen.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/apfel-nuss-penne-mit-rosinen.jpg&quot;
+
+          alt=&quot;Apfel-Nuss-Penne mit Rosinen (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Fri, 21 Oct 2016 00:00:00 +0200</pubDate>
@@ -836,11 +1085,25 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/paprika-pasta-mit-feta-und-walnuessen.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/paprika-pasta-mit-feta-und-walnuessen.jpg&quot; alt=&quot;Paprika-Pasta mit Feta und Walnüssen&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/paprika-pasta-mit-feta-und-walnuessen.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/paprika-pasta-mit-feta-und-walnuessen.jpg&quot;
+
+          alt=&quot;Paprika-Pasta mit Feta und Walnüssen (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Mon, 17 Oct 2016 00:00:00 +0200</pubDate>
@@ -972,11 +1235,25 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/kokos-tomaten-mit-spinat.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/kokos-tomaten-mit-spinat.jpg&quot; alt=&quot;Kokos-Tomaten-Nudeln mit Spinat&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/kokos-tomaten-mit-spinat.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/kokos-tomaten-mit-spinat.jpg&quot;
+
+          alt=&quot;Kokos-Tomaten-Nudeln mit Spinat (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Mon, 17 Oct 2016 00:00:00 +0200</pubDate>
@@ -1122,11 +1399,25 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/curry-nudeln-mit-blumenkohl.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/curry-nudeln-mit-blumenkohl.jpg&quot; alt=&quot;Curry-Nudeln mit Blumenkohl&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/curry-nudeln-mit-blumenkohl.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/curry-nudeln-mit-blumenkohl.jpg&quot;
+
+          alt=&quot;Curry-Nudeln mit Blumenkohl (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Sun, 16 Oct 2016 00:00:00 +0200</pubDate>
@@ -1258,11 +1549,25 @@ Parmesan&lt;/p&gt;
 &lt;div class=&quot;sect1&quot;&gt;
 &lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
 &lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/pasta-alla-vesuviana.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/pasta-alla-vesuviana.jpg&quot; alt=&quot;Pasta alla Vesuviana&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
+&lt;figure class=&quot; &quot;&gt;
+
+
+      &lt;a href=
+
+          &quot;/cooking-recipes/images/pasta-alla-vesuviana.jpg&quot;
+
+
+      &gt;
+        &lt;img src=
+
+            &quot;/cooking-recipes/images/thumbnail/pasta-alla-vesuviana.jpg&quot;
+
+          alt=&quot;Pasta alla Vesuviana (1)&quot;&gt;
+      &lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
         <pubDate>Sat, 15 Oct 2016 00:00:00 +0200</pubDate>
@@ -1274,129 +1579,6 @@ Parmesan&lt;/p&gt;
         <category>vegetarisch</category>
         
         <category>italienisch</category>
-        
-        
-        <category>one-pot-pasta</category>
-        
-      </item>
-    
-      <item>
-        <title>Grundrezept: Pasta</title>
-        <description>&lt;div id=&quot;preamble&quot;&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Quelle&lt;/strong&gt;: One Pot Pasta, S. 6&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Zubereitungszeit&lt;/strong&gt;: 20&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Personen&lt;/strong&gt;: 2&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;zutaten&quot;&gt;Zutaten&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Option aus jeder Kategorie auswählen&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;200 g Nudeln&lt;/strong&gt;&lt;br&gt;
-(angegebene/benötigte Kochzeit in Klammern)&lt;br&gt;
-Girandole, Mini-Hörnchennudeln (6 min / 10 min)&lt;br&gt;
-Spaghetti, Bavette, kurze Makkaroni (7-9 min / 10-12 min)&lt;br&gt;
-Penne, Maccheroncini (8-10 min / 12-15 min)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;650-750 ml kalte Flüssigkeit&lt;/strong&gt;&lt;br&gt;
-ca. 650 ml Brühe (teilweise ersetzbar durch Wein, Sojasauce, Fischsauce, Sherry, Milch)&lt;br&gt;
-500-600 ml Brühe + 150-250 ml Tomaten (frisch, stückig, passiert)&lt;br&gt;
-550-600 ml Brühe + 100-150 ml Sahne / cremige Kokosmilch&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;200-400 g Gemüse&lt;/strong&gt;&lt;br&gt;
-frisches Gemüse (z.B. .Schalotten, Zwiebeln, Frühlingszwiebeln, Karotten, Paprika, Zucchini, Lauch)&lt;br&gt;
-unaufgetautes Tiefkühl-Gemüse (Bohnen, Erbsen, Spinat, Wok-Gemüse)&lt;br&gt;
-Dosen-Gemüse (Mais, Kichererbsen, Bohnen)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;100-200 g Fleisch/Fisch&lt;/strong&gt;&lt;br&gt;
-Filet, Steak, Hackfleisch, Speck, BRatwurst&lt;br&gt;
-Fischfilet&lt;br&gt;
-TK-Garnelen&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;Gewürze&lt;/strong&gt;&lt;br&gt;
-Chili, Ingwer, Zitronengras, Würzpasten (Curry, Ajvar)&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;&lt;strong&gt;sonstiges&lt;/strong&gt;&lt;br&gt;
-½ TL Salz&lt;br&gt;
-Knoblauch&lt;br&gt;
-evtl. 1 EL Öl, Butter&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;kommentar&quot;&gt;Kommentar&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;paragraph&quot;&gt;
-&lt;p&gt;Beispiel: 200 g Spaghetti, 600 ml Gemüsebrühe, 150 ml Kokosmlich, 1 TL Salz, 1 TL geriebener Ingwer, 3 klein geschnittene Frühlingszwiebeln, 1 gewürfelter Zucchino und 100 g TK-Garnelen&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;page-break-after: always;&quot;&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;rezept&quot;&gt;Rezept&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;table class=&quot;tableblock frame-all grid-all spread&quot;&gt;
-&lt;colgroup&gt;
-&lt;col style=&quot;width: 33.3333%;&quot;&gt;
-&lt;col style=&quot;width: 33.3333%;&quot;&gt;
-&lt;col style=&quot;width: 33.3334%;&quot;&gt;
-&lt;/colgroup&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Gemüse&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;2&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;klein schneiden&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;5&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;in Pfanne mit hohem Rand oder Topf aufkochen&lt;br&gt;
-lassen&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Fleisch&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Flüssigkeit&lt;/p&gt;&lt;/td&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot; rowspan=&quot;3&quot;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Nudeln&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td class=&quot;tableblock halign-left valign-top&quot;&gt;&lt;p class=&quot;tableblock&quot;&gt;Gewürze&lt;/p&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;sect1&quot;&gt;
-&lt;h2 id=&quot;bilder&quot;&gt;Bilder&lt;/h2&gt;
-&lt;div class=&quot;sectionbody&quot;&gt;
-&lt;div class=&quot;imageblock image-popup&quot;&gt;
-&lt;div class=&quot;content&quot;&gt;
-&lt;a class=&quot;image&quot; href=&quot;/cooking-recipes/images/grundrezept-pasta.jpg&quot;&gt;&lt;img src=&quot;/cooking-recipes/images/grundrezept-pasta.jpg&quot; alt=&quot;Grundrezept: Pasta&quot;&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
-        <pubDate>Sat, 15 Oct 2016 00:00:00 +0200</pubDate>
-        <link>/cooking-recipes/one-pot-pasta/grundrezept-pasta.html</link>
-        <guid isPermaLink="true">/cooking-recipes/one-pot-pasta/grundrezept-pasta.html</guid>
-        
-        <category>pasta</category>
-        
-        <category>hauptgericht&quot;</category>
         
         
         <category>one-pot-pasta</category>
