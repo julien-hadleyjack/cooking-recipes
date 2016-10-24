@@ -6,105 +6,107 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "Cooking By The Book"
-title_separator          : "-"
-name                     : "Julien Hadley Jack"
-description              : A collection of recipes. Inspired by the "Cooking For Engineers" website.
+locale: "en"
+title: "Cooking By The Book"
+title_separator: "-"
+name: "Julien Hadley Jack"
+description: >
+  A collection of recipes. Inspired by the "Cooking For Engineers" website.
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : 
+# url:
 # the subpath of your site, e.g. "/blog"
-baseurl                  : "/cooking-recipes" 
+baseurl: "/cooking-recipes"
 # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-repository               : "julien-hadleyjack/cooking-recipes"
-# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-teaser                   : default-teaser.png
-breadcrumbs              : true
-words_per_minute         : 200
-comments:
-  # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  provider               : false
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+repository: "julien-hadleyjack/cooking-recipes"
+# teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser: default-teaser.png
+breadcrumbs: true
+words_per_minute: 200
+# atom_feed:
+# path : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+# google_site_verification :
+# bing_site_verification:
+# alexa_site_verification:
+# yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+# twitter:
+# username:
+# facebook:
+# username:
+# app_id:
+# publisher:
+# og_image: # Open Graph/Twitter default site image
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# social:
+# type : # Person or Organization (defaults to Person)
+# name : # If the user or organization name differs from the site's name
+# links: # An array of links to social media profiles
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+  provider: false    # false (default), "google", "google-universal", "custom"
+  # google:
+  # tracking_id :
 
 # Site Author
 author:
-  name             : "Julien Hadley Jack"
-  avatar           : #"bio-photo.jpg"
-  bio              : "Software Developer"
-  location         : #"Karlsruhe, Germany"
-  email            :
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  name: "Julien Hadley Jack"
+  # avatar: "bio-photo.jpg"
+  bio: "Software Developer"
+  # location: "Karlsruhe, Germany"
+  # email:
+  # uri:
+  # bitbucket:
+  # codepen :
+  # dribbble:
+  # flickr:
+  # facebook:
+  # foursquare :
+  # github:
+  # google_plus:
+  # keybase :
+  # instagram:
+  # lastfm:
+  # linkedin:
+  # pinterest:
+  # soundcloud :
+  # the last part of your stackoverflow profile url
+  # e.g. http://stackoverflow.com/users/123456/username)
+  # stackoverflow : # "123456/username"
+  # steam:
+  # tumblr:
+  # twitter :
+  # vine :
+  # weibo:
+  # xing :
+  # youtube :
 
 
 comments:
-  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider: "staticman"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'message']
+  allowedFields: ['name', 'email', 'url', 'message']
+  branch: "master"      # "master", "gh-pages"
+  commitMessage: "New comment."
+  filename: comment-{@timestamp}
+  format: "yml"
+  moderation: true
+  path: "_data/comments/{options.slug}"
+  requiredFields: ['name', 'message']
   transforms:
-    email                : "md5"
+    email: "md5"
   generatedFields:
     date:
-      type               : "date"
+      type: "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format: "iso8601"
 
 defaults:
   # _posts
@@ -158,7 +160,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-#highlighter: rouge
+# highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
@@ -179,24 +181,26 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
 
 
 # Outputting
 permalink: none
-#paginate: 5 # amount of posts to show
+# paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: "Europe/Berlin" # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "Europe/Berlin"
 
 # Plugins
 gems:
   - jekyll-asciidoc
-#  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-archives
-#  - jekyll-gist
-#  - jekyll-feed
-#  - jemoji
+  # - jekyll-paginate
+  # - jekyll-gist
+  # - jekyll-feed
+  # - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -211,7 +215,7 @@ whitelist:
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
+# expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
@@ -223,23 +227,23 @@ tag_archive:
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
-   enabled:
-     - categories
-     - tags
-   layouts:
-     category: archive-taxonomy
-     tag: archive-taxonomy
-   permalinks:
-     category: /:name/
-     tag: /tags/:name/
+enabled:
+  - categories
+  - tags
+layouts:
+  category: archive-taxonomy
+  tag: archive-taxonomy
+permalinks:
+  category: /:name/
+  tag: /tags/:name/
 
 
 # HTML Compression
 # - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+# compress_html:
+# clippings: all
+# ignore:
+#  envs: development
 
 # jekyll-asciidoc
 asciidoc: {}
