@@ -1,0 +1,99 @@
+= Nudeln mit Linsen
+:page-layout: single
+:page-categories: ["20-minuten-sind-genug"]
+:page-tags: ["pasta", "vegetarisch", "hauptgericht"]
+:page-gallery: nudeln-mit-linsen.jpg
+:epub-picture: nudeln-mit-linsen.jpg
+:page-liquid:
+
+**Quelle**: 20 Minuten sind genug
+
+**Zubereitungszeit**:
+
+**Personen**: 2
+
+
+== Zutaten
+:hardbreaks:
+
+**Gemüse/Obst**
+3 Frühlingszwiebeln
+1 Lorbeerblatt
+1 Knoblauchzehe
+60 g Stangensellerie
+
+**Dosen**
+1
+
+**Reis/Bohnen/Linsen**
+120 g rote Linsen
+
+**Nudeln/Saucen**
+250 g Pasta (z.B. Orecchiette)
+1 kleine Dose TOmagen (400 g)
+
+**Milch**
+2 EL gehobelter Parmesan
+
+**sonstiges**
+3 getrocknete eingelegte Tomaten (Glas)
+150 ml trockener Rotwein (ersatzweise Brühe)
+150 ml Gemüsebrühe
+1-2 EL Aceto balsamico
+
+<<<
+
+== Rezept
+
+[cols=",,,,",options="header",]
+|=======================================================================
+| | |3-4 Minuten |8-10 Minuten |
+|Salzwasser |zum Kochen bringen | .2+|kochen .16+|anrichten
+
+|250 g Pasta | |
+
+|1 EL Olivenöl | .5+|dünsten .11+|auf mittlerer Hitze kochen
+
+|3 Frühlingszwiebeln |feine Ringe schneiden, 2 EL Grün beiseitelegen
+
+|1 Knoblauchzehe .2+|scheiden
+
+|60 g Stangensellerie
+
+|3 eingelegte Tomaten |abtropfen, feine Streifen schneiden
+
+|120 g rote Linsen .9+| .9+|
+
+|150 ml Rotwein
+
+|1 Dose Tomaten (400 g)
+
+|1 Lorbeerblatt
+
+|1 EL Aceto balsamico
+
+|Salz, Pfeffer
+
+|Cayennepfeffer .3+|
+
+|2 EL gehobelter Parmesan
+
+|2 EL Frühlingszwiebelgrün
+|=======================================================================
+
+== Bilder
+
+ifdef::ebook-format-epub3[]
+image::{site-baseurl}/images/{page-gallery}["{doctitle}"]
+endif::ebook-format-epub3[]
+ifndef::ebook-format-epub3[]
+{% if page.gallery.size == 1 %}
+++++
+{% include gallery %}
+++++
+{% else %}
+++++
+{% include gallery  caption=page.title %}
+++++
+{% endif %}
+endif::ebook-format-epub3[]
