@@ -47,11 +47,11 @@
 
 |1 Bund Frühlingswiebeln |waschen, 1 Frühlingszwiebel beiseitelegen, restliche in Ringe schneiden .9+|kochen .10+|hinzufügen .10+|
 
-|10 g Ingwer |schälen, würfeln
+|10 g Ingwer .2+|schälen, würfeln
 
-|1 Knoblauchzehe .12+|
+|1 Knoblauchzehe
 
-|200 g Macceroncini
+|200 g Macceroncini .11+|
 
 |200 ml Kokosmilch
 

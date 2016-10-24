@@ -91,9 +91,9 @@ comments:
   # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   provider: "staticman"
 staticman:
-  allowedFields: ['name', 'email', 'url', 'message']
+  allowedFields: ['name', 'message', slug']
   branch: "master"      # "master", "gh-pages"
-  commitMessage: "New comment."
+  commitMessage: "New comment by {options.name} in {options.slug}."
   filename: comment-{@timestamp}
   format: "yml"
   moderation: true
@@ -136,12 +136,9 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
-  - Capfile
   - CHANGELOG
   - config
   - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
   - LICENSE
   - log
   - node_modules
@@ -227,15 +224,15 @@ tag_archive:
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
-enabled:
-  - categories
-  - tags
-layouts:
-  category: archive-taxonomy
-  tag: archive-taxonomy
-permalinks:
-  category: /:name/
-  tag: /tags/:name/
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /:name/
+    tag: /tags/:name/
 
 
 # HTML Compression
