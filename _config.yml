@@ -93,7 +93,7 @@ comments:
 staticman:
   allowedFields: ['name', 'message', slug']
   branch: "master"      # "master", "gh-pages"
-  commitMessage: "New comment by {options.name} in {options.slug}."
+  commitMessage: "New comment."
   filename: comment-{@timestamp}
   format: "yml"
   moderation: true
