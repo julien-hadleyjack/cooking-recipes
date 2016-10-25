@@ -121,6 +121,40 @@ urlsToCache.push("/cooking-recipes/images/thumbnail/ungarische-reispfanne.jpg");
 urlsToCache.push("/cooking-recipes/images/ungarische-reispfanne.jpg");
 
 
+urlsToCache.push("/cooking-recipes/tags/reis/index.html");
+urlsToCache.push("/cooking-recipes/tags/vegetarisch/index.html");
+urlsToCache.push("/cooking-recipes/tags/pfanne/index.html");
+urlsToCache.push("/cooking-recipes/tags/hauptgericht/index.html");
+urlsToCache.push("/cooking-recipes/tags/eintopf/index.html");
+urlsToCache.push("/cooking-recipes/tags/schwein/index.html");
+urlsToCache.push("/cooking-recipes/tags/ungarisch/index.html");
+urlsToCache.push("/cooking-recipes/tags/pasta/index.html");
+urlsToCache.push("/cooking-recipes/tags/huhn/index.html");
+urlsToCache.push("/cooking-recipes/tags/asiatisch/index.html");
+urlsToCache.push("/cooking-recipes/tags/vegetarisch/index.html");
+urlsToCache.push("/cooking-recipes/tags/salat/index.html");
+urlsToCache.push("/cooking-recipes/tags/beilage/index.html");
+urlsToCache.push("/cooking-recipes/tags/rind/index.html");
+urlsToCache.push("/cooking-recipes/tags/sandwich/index.html");
+urlsToCache.push("/cooking-recipes/tags/wrap/index.html");
+urlsToCache.push("/cooking-recipes/tags/supppe/index.html");
+urlsToCache.push("/cooking-recipes/tags/suppe/index.html");
+urlsToCache.push("/cooking-recipes/tags/fleisch/index.html");
+urlsToCache.push("/cooking-recipes/tags/hauptgericht/index.html");
+urlsToCache.push("/cooking-recipes/tags/italienisch/index.html");
+urlsToCache.push("/cooking-recipes/tags/indisch/index.html");
+urlsToCache.push("/cooking-recipes/tags/balkanisch/index.html");
+urlsToCache.push("/cooking-recipes/tags/winter/index.html");
+urlsToCache.push("/cooking-recipes/20-minuten-sind-genug/index.html");
+urlsToCache.push("/cooking-recipes/crashkurs-kochen/index.html");
+urlsToCache.push("/cooking-recipes/basic-cooking/index.html");
+urlsToCache.push("/cooking-recipes/basic-cooking-2/index.html");
+urlsToCache.push("/cooking-recipes/natuerlich-essen/index.html");
+urlsToCache.push("/cooking-recipes/lunch-im-glas/index.html");
+urlsToCache.push("/cooking-recipes/one-pot-pasta/index.html");
+urlsToCache.push("/cooking-recipes/suppen/index.html");
+
+
 var CACHE_NAME = 'cooking-by-the-book-cache-v1';
 
 self.addEventListener('install', function(event) {
