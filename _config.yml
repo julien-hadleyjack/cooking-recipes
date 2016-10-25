@@ -193,7 +193,7 @@ timezone: "Europe/Berlin"
 gems:
   - jekyll-asciidoc
   - jekyll-sitemap
-  - jekyll-archives
+  # - jekyll-archives
   # - jekyll-paginate
   # - jekyll-gist
   # - jekyll-feed
@@ -245,3 +245,13 @@ jekyll-archives:
 # jekyll-asciidoc
 asciidoc: {}
 asciidoctor: {}
+
+# service worker
+# options: cache-only
+# - network-only
+# - cache-first-network-fallback
+# - network-first-cache-fallback
+# - cache-network-race
+# - cache-then-network (default)
+offline:
+  strategy: cache-then-network

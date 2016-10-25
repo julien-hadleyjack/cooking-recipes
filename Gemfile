@@ -35,6 +35,7 @@ group :jekyll_plugins do
   # needed for _plugins/create_thumbnails.rb
   gem 'ruby-filemagic'
   gem 'mini_magick'
+  # gem 'classifier-reborn'
 
   # gem 'jekyll-paginate'
   # gem 'jekyll-feed'
