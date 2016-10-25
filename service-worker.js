@@ -13,6 +13,9 @@ var urlsToCache = [];
 {% for item in site.static_files %}urlsToCache.push("{{ base_path }}{{ item.path }}");
 {% endfor %}
 
+{% for item in site.archives %}urlsToCache.push("{{ base_path }}/{{ item.path }}");
+{% endfor %}
+
 var CACHE_NAME = '{{ site.title | slugify }}-cache-v1';
 
 self.addEventListener('install', function(event) {
