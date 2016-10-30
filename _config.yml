@@ -255,3 +255,13 @@ asciidoctor: {}
 # - cache-then-network (default)
 offline:
   strategy: cache-then-network
+
+# manigest.json
+manifest:
+  background_color: white
+  # options: fullscreen, standalone, minimal-ui, browser
+  display: standalone
+  # options: any, natural, landscape, landscape-primary, landscape-secondary
+  # portrait, portrait-primary, portrait-secondary
+  # orientation: 
+  theme_color: "#7a8288"
