@@ -6,6 +6,7 @@ urlsToCache.push("/cooking-recipes/404.html");
 urlsToCache.push("/cooking-recipes/feed.xml");
 urlsToCache.push("/cooking-recipes/");
 urlsToCache.push("/cooking-recipes/assets/css/main.css");
+urlsToCache.push("/cooking-recipes/manifest.json");
 urlsToCache.push("/cooking-recipes/service-worker.js");
 
 
@@ -64,6 +65,20 @@ urlsToCache.push("/cooking-recipes/images/curry-2.jpg");
 urlsToCache.push("/cooking-recipes/images/curry-nudeln-mit-blumenkohl.jpg");
 urlsToCache.push("/cooking-recipes/images/curry.jpg");
 urlsToCache.push("/cooking-recipes/images/default-teaser.png");
+urlsToCache.push("/cooking-recipes/images/favicon/android-chrome-192x192.png");
+urlsToCache.push("/cooking-recipes/images/favicon/android-chrome-512x512.png");
+urlsToCache.push("/cooking-recipes/images/favicon/apple-touch-icon.png");
+urlsToCache.push("/cooking-recipes/images/favicon/browserconfig.xml");
+urlsToCache.push("/cooking-recipes/images/favicon/favicon-16x16.png");
+urlsToCache.push("/cooking-recipes/images/favicon/favicon-32x32.png");
+urlsToCache.push("/cooking-recipes/images/favicon/favicon.ico");
+urlsToCache.push("/cooking-recipes/images/favicon/manifest.json");
+urlsToCache.push("/cooking-recipes/images/favicon/mstile-144x144.png");
+urlsToCache.push("/cooking-recipes/images/favicon/mstile-150x150.png");
+urlsToCache.push("/cooking-recipes/images/favicon/mstile-310x150.png");
+urlsToCache.push("/cooking-recipes/images/favicon/mstile-310x310.png");
+urlsToCache.push("/cooking-recipes/images/favicon/mstile-70x70.png");
+urlsToCache.push("/cooking-recipes/images/favicon/safari-pinned-tab.svg");
 urlsToCache.push("/cooking-recipes/images/fenchel-safran-nudeln-mit-huhn.jpg");
 urlsToCache.push("/cooking-recipes/images/gebratene-asiatische-nudeln.jpg");
 urlsToCache.push("/cooking-recipes/images/gemueseeintopf-mit-reis.jpg");
@@ -121,38 +136,38 @@ urlsToCache.push("/cooking-recipes/images/thumbnail/ungarische-reispfanne.jpg");
 urlsToCache.push("/cooking-recipes/images/ungarische-reispfanne.jpg");
 
 
-urlsToCache.push("/cooking-recipes/tags/reis/index.html");
-urlsToCache.push("/cooking-recipes/tags/vegetarisch/index.html");
-urlsToCache.push("/cooking-recipes/tags/pfanne/index.html");
-urlsToCache.push("/cooking-recipes/tags/hauptgericht/index.html");
-urlsToCache.push("/cooking-recipes/tags/eintopf/index.html");
-urlsToCache.push("/cooking-recipes/tags/schwein/index.html");
-urlsToCache.push("/cooking-recipes/tags/ungarisch/index.html");
-urlsToCache.push("/cooking-recipes/tags/pasta/index.html");
-urlsToCache.push("/cooking-recipes/tags/huhn/index.html");
-urlsToCache.push("/cooking-recipes/tags/asiatisch/index.html");
-urlsToCache.push("/cooking-recipes/tags/vegetarisch/index.html");
-urlsToCache.push("/cooking-recipes/tags/salat/index.html");
-urlsToCache.push("/cooking-recipes/tags/beilage/index.html");
-urlsToCache.push("/cooking-recipes/tags/rind/index.html");
-urlsToCache.push("/cooking-recipes/tags/sandwich/index.html");
-urlsToCache.push("/cooking-recipes/tags/wrap/index.html");
-urlsToCache.push("/cooking-recipes/tags/supppe/index.html");
-urlsToCache.push("/cooking-recipes/tags/suppe/index.html");
-urlsToCache.push("/cooking-recipes/tags/fleisch/index.html");
-urlsToCache.push("/cooking-recipes/tags/hauptgericht/index.html");
-urlsToCache.push("/cooking-recipes/tags/italienisch/index.html");
-urlsToCache.push("/cooking-recipes/tags/indisch/index.html");
-urlsToCache.push("/cooking-recipes/tags/balkanisch/index.html");
-urlsToCache.push("/cooking-recipes/tags/winter/index.html");
-urlsToCache.push("/cooking-recipes/20-minuten-sind-genug/index.html");
-urlsToCache.push("/cooking-recipes/crashkurs-kochen/index.html");
-urlsToCache.push("/cooking-recipes/basic-cooking/index.html");
-urlsToCache.push("/cooking-recipes/basic-cooking-2/index.html");
-urlsToCache.push("/cooking-recipes/natuerlich-essen/index.html");
-urlsToCache.push("/cooking-recipes/lunch-im-glas/index.html");
-urlsToCache.push("/cooking-recipes/one-pot-pasta/index.html");
-urlsToCache.push("/cooking-recipes/suppen/index.html");
+urlsToCache.push("/cooking-recipes/tags/reis/");
+urlsToCache.push("/cooking-recipes/tags/vegetarisch/");
+urlsToCache.push("/cooking-recipes/tags/pfanne/");
+urlsToCache.push("/cooking-recipes/tags/hauptgericht/");
+urlsToCache.push("/cooking-recipes/tags/eintopf/");
+urlsToCache.push("/cooking-recipes/tags/schwein/");
+urlsToCache.push("/cooking-recipes/tags/ungarisch/");
+urlsToCache.push("/cooking-recipes/tags/pasta/");
+urlsToCache.push("/cooking-recipes/tags/huhn/");
+urlsToCache.push("/cooking-recipes/tags/asiatisch/");
+urlsToCache.push("/cooking-recipes/tags/vegetarisch/");
+urlsToCache.push("/cooking-recipes/tags/salat/");
+urlsToCache.push("/cooking-recipes/tags/beilage/");
+urlsToCache.push("/cooking-recipes/tags/rind/");
+urlsToCache.push("/cooking-recipes/tags/sandwich/");
+urlsToCache.push("/cooking-recipes/tags/wrap/");
+urlsToCache.push("/cooking-recipes/tags/supppe/");
+urlsToCache.push("/cooking-recipes/tags/suppe/");
+urlsToCache.push("/cooking-recipes/tags/fleisch/");
+urlsToCache.push("/cooking-recipes/tags/hauptgericht/");
+urlsToCache.push("/cooking-recipes/tags/italienisch/");
+urlsToCache.push("/cooking-recipes/tags/indisch/");
+urlsToCache.push("/cooking-recipes/tags/balkanisch/");
+urlsToCache.push("/cooking-recipes/tags/winter/");
+urlsToCache.push("/cooking-recipes/20-minuten-sind-genug/");
+urlsToCache.push("/cooking-recipes/crashkurs-kochen/");
+urlsToCache.push("/cooking-recipes/basic-cooking/");
+urlsToCache.push("/cooking-recipes/basic-cooking-2/");
+urlsToCache.push("/cooking-recipes/natuerlich-essen/");
+urlsToCache.push("/cooking-recipes/lunch-im-glas/");
+urlsToCache.push("/cooking-recipes/one-pot-pasta/");
+urlsToCache.push("/cooking-recipes/suppen/");
 
 
 var CACHE_NAME = 'cooking-by-the-book-cache-v1';
@@ -162,7 +177,7 @@ self.addEventListener('install', function(event) {
   event.waitUntil(caches.open(CACHE_NAME).then(function(cache) {
     return cache.addAll(urlsToCache);
   }).catch(function(err) {
-    console.log('cache add err', err);
+    console.log('service worker cache add err: ', err);
   }));
 });
 

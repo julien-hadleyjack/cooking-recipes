@@ -82,7 +82,16 @@
     <!-- start custom head snippets -->
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="/cooking-recipes/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/cooking-recipes/images/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/cooking-recipes/images/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/cooking-recipes/images/favicon/manifest.json">
+<link rel="mask-icon" href="/cooking-recipes/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/cooking-recipes/images/favicon/favicon.ico">
+<meta name="msapplication-config" content="/cooking-recipes/images/favicon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
 
+<link rel="manifest" href="/cooking-recipes/manifest.json">
 <!-- end custom head snippets -->
   </head>
 
@@ -137,7 +146,7 @@
         
         
         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-          <a href="/cooking-recipes/suppen" itemprop="item"><span itemprop="name">Suppen - Die glücklich machen</span></a>
+          <a href="/cooking-recipes/suppen/" itemprop="item"><span itemprop="name">Suppen - Die glücklich machen</span></a>
           <meta itemprop="position" content="2" />
           </li>
         
@@ -338,19 +347,19 @@ Beide: auspressen</p></td>
     
       
       
-      <a href="/cooking-recipes/tags/hauptgericht" class="page__taxonomy-item" rel="tag">Hauptgericht</a><span class="sep">, </span>
+      <a href="/cooking-recipes/tags/hauptgericht/" class="page__taxonomy-item" rel="tag">Hauptgericht</a><span class="sep">, </span>
     
       
       
-      <a href="/cooking-recipes/tags/suppe" class="page__taxonomy-item" rel="tag">Suppe</a><span class="sep">, </span>
+      <a href="/cooking-recipes/tags/suppe/" class="page__taxonomy-item" rel="tag">Suppe</a><span class="sep">, </span>
     
       
       
-      <a href="/cooking-recipes/tags/vegetarisch" class="page__taxonomy-item" rel="tag">Vegetarisch</a><span class="sep">, </span>
+      <a href="/cooking-recipes/tags/vegetarisch/" class="page__taxonomy-item" rel="tag">Vegetarisch</a><span class="sep">, </span>
     
       
       
-      <a href="/cooking-recipes/tags/winter" class="page__taxonomy-item" rel="tag">Winter</a>
+      <a href="/cooking-recipes/tags/winter/" class="page__taxonomy-item" rel="tag">Winter</a>
     
     </span>
   </p>
@@ -374,7 +383,7 @@ Beide: auspressen</p></td>
       
       
       
-      <a href="/cooking-recipes/suppen" class="page__taxonomy-item" rel="tag">Suppen - Die glücklich machen</a>
+      <a href="/cooking-recipes/suppen/" class="page__taxonomy-item" rel="tag">Suppen - Die glücklich machen</a>
     
     </span>
   </p>
@@ -670,9 +679,10 @@ Beide: auspressen</p></td>
 
 
 
+
 <script>
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('service-worker.js')
+  navigator.serviceWorker.register('/cooking-recipes/service-worker.js')
   .then(function(reg) {
     // registration worked
     console.log('Registration succeeded. Scope is ' + reg.scope);
