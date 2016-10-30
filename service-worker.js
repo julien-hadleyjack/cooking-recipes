@@ -3,6 +3,7 @@
 var urlsToCache = [];
 
 urlsToCache.push("/cooking-recipes/404.html");
+urlsToCache.push("/cooking-recipes/images/favicon/browserconfig.xml");
 urlsToCache.push("/cooking-recipes/feed.xml");
 urlsToCache.push("/cooking-recipes/");
 urlsToCache.push("/cooking-recipes/assets/css/main.css");
@@ -68,7 +69,6 @@ urlsToCache.push("/cooking-recipes/images/default-teaser.png");
 urlsToCache.push("/cooking-recipes/images/favicon/android-chrome-192x192.png");
 urlsToCache.push("/cooking-recipes/images/favicon/android-chrome-512x512.png");
 urlsToCache.push("/cooking-recipes/images/favicon/apple-touch-icon.png");
-urlsToCache.push("/cooking-recipes/images/favicon/browserconfig.xml");
 urlsToCache.push("/cooking-recipes/images/favicon/favicon-16x16.png");
 urlsToCache.push("/cooking-recipes/images/favicon/favicon-32x32.png");
 urlsToCache.push("/cooking-recipes/images/favicon/favicon.ico");
