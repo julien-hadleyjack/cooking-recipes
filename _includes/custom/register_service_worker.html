@@ -1,6 +1,7 @@
+{% include base_path %}
 <script>
 if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('service-worker.js')
+  navigator.serviceWorker.register('{{ base_path }}/service-worker.js')
   .then(function(reg) {
     // registration worked
     console.log('Registration succeeded. Scope is ' + reg.scope);

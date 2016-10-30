@@ -13,7 +13,7 @@ var urlsToCache = [];
 {% for item in site.static_files %}urlsToCache.push("{{ base_path }}{{ item.path }}");
 {% endfor %}
 
-{% for item in site.archives %}urlsToCache.push("{{ base_path }}/{{ item.path }}");
+{% for item in site.archives %}urlsToCache.push("{{ base_path }}{{ item.url }}");
 {% endfor %}
 
 var CACHE_NAME = '{{ site.title | slugify }}-cache-v1';
@@ -23,7 +23,7 @@ self.addEventListener('install', function(event) {
   event.waitUntil(caches.open(CACHE_NAME).then(function(cache) {
     return cache.addAll(urlsToCache);
   }).catch(function(err) {
-    console.log('cache add err', err);
+    console.log('service worker cache add err: ', err);
   }));
 });
 
