@@ -10,6 +10,7 @@ permalink: manifest.json
   "name": "{{ site.title }}",
   {% if site.manifest.orientation %}"orientation": "{{ site.manifest.orientation }}",{% endif %}
   {% if site.manifest.theme_color %}"theme_color": "{{ site.manifest.theme_color }}",{% endif %}
+  "short_name": "{% if site.manifest.short_name %}{{ site.manifest.short_name }}{% else %}{{ site.title }}{% endif %}",
   "start_url": "{{ base_path }}/index.html"
   "icons": [
     {
