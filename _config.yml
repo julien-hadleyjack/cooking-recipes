@@ -128,6 +128,7 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - "*.enc"
   - vendor
   - .asset-cache
   - .bundle
