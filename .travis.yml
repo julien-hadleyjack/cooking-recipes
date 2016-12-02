@@ -31,11 +31,10 @@ after_success:
           "Host github.com" \
           "  IdentityFile $SSH_FILE" \
           "  LogLevel ERROR" >> ~/.ssh/config
+- git clone "${GH_REF}" ${TARGET_BRANCH}
 - git config user.name "Travis-CI"
 - git config user.email ${EMAIL}
 - git config push.default simple
-- echo "Cloning ${TARGET_BRANCH} branch from git@${GH_REF} repository."
-- git clone "${GH_REF}" ${TARGET_BRANCH}
 - cd ${TARGET_BRANCH}
 - ls -lah
 - git checkout -f ${TARGET_BRANCH}
