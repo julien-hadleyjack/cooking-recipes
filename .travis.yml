@@ -31,7 +31,7 @@ after_success:
           "Host github.com" \
           "  IdentityFile $SSH_FILE" \
           "  LogLevel ERROR" >> ~/.ssh/config
-- git clone https://$GH_REF ${TARGET_BRANCH}
+- git clone ssh://git@${GH_REF} ${TARGET_BRANCH}
 - cd ${TARGET_BRANCH}
 - ls -lah
 - ls -lah ~/.ssh
@@ -44,7 +44,7 @@ after_success:
 - git add -A .
 - git status
 - git commit -m "Generated Jekyll Site by Travis CI - ${TRAVIS_BUILD_NUMBER}"
-- git push -f "ssh://${GH_REF}" ${TARGET_BRANCH}
+- git push -f "ssh://git@${GH_REF}" ${TARGET_BRANCH}
 
 addons:
   apt:
@@ -55,6 +55,6 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - JEKYLL_ENV=production
-  - GH_REF=github.com/julien-hadleyjack/cooking-recipes
+  - GH_REF=github.com:julien-hadleyjack/cooking-recipes.git
   - EMAIL=github@jlhj.de
   - TARGET_BRANCH=gh-pages
